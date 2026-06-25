@@ -4,63 +4,48 @@ import streamlit as st
 
 import time
 
-df = pd.read_csv("Processed ACS Data/acs_2024.csv")
+# run python -m streamlit run acs_explorer.py to start the streamlit app
 
 
-map_data = pd.DataFrame(
-    np.random.randn(1000, 2) / [50, 50] + [37.76, -122.4],
-    columns=['lat', 'lon'])
+SLIDERS = ["Income", "Education Attainment", "Unemployment", "Health Insurance Coverage", "Housing Cost Burden"]
 
-st.map(map_data)
+def normalize(changed_key):
+    """Rescale all other sliders proportionally so total stays 100."""
+    changed_val = st.session_state[changed_key]
+    others = {k: st.session_state[k] for k in SLIDERS if k != changed_key}
+    others_sum = sum(others.values())
+    remaining = 100 - changed_val
 
-x = st.sidebar.slider('x')
-st.write(x, 'squared is', x**2)
+    if others_sum == 0:
+        # Distribute evenly if all others are zero
+        per_slider = remaining / len(others)
+        for k in others:
+            st.session_state[k] = per_slider
+    else:
+        # Scale others proportionally
+        for k, v in others.items():
+            st.session_state[k] = round(v / others_sum * remaining, 2)
 
-st.text_input("Enter your name", key='name')
-st.session_state.name
+# Initialize session state
+for key in SLIDERS:
+    if key not in st.session_state:
+        st.session_state[key] = 20.0  # Start at equal shares (5 × 20 = 100)
 
+st.sidebar.title("Normalized Sliders")
 
+for key in SLIDERS:
+    st.sidebar.slider(
+        label=f"Slider {key}",
+        min_value=0.0,
+        max_value=100.0,
+        key=key,
+        on_change=normalize,
+        args=(key,),
+    )
 
-if st.sidebar.checkbox('Show dataframe'):
-    chart_data = pd.DataFrame(
-       np.random.randn(20, 3),
-       columns=['a', 'b', 'c'])
-
-    chart_data
-
-
-
-
-df = pd.DataFrame({
-    'first column': [1, 2, 3, 4],
-    'second column': [10, 20, 30, 40]
-    })
-
-option = st.sidebar.selectbox(
-    'Which number do you like best?',
-     df['first column'])
-
-'You selected: ', option
-
-
-left_column, right_column = st.columns(2)
-# You can use a column just like st.sidebar:
-left_column.button('Press me!')
-
-# Or even better, call Streamlit functions inside a "with" block:
-with right_column:
-    chosen = st.radio(
-        'Sorting hat',
-        ("Gryffindor", "Ravenclaw", "Hufflepuff", "Slytherin"))
-    st.write(f"You are in {chosen} house!")
+total = sum(st.session_state[k] for k in SLIDERS)
+st.sidebar.metric("Total", f"{total:.2f}")
 
 
 
 
-if "counter" not in st.session_state:
-    st.session_state.counter = 0
-
-st.session_state.counter += 1
-
-st.header(f"This page has run {st.session_state.counter} times.")
-st.button("Run it again")
