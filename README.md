@@ -2,9 +2,9 @@
 
 An interactive web app for exploring socioeconomic opportunity across all U.S. congressional districts using data from the American Community Survey (ACS). Users can define what "opportunity" means to them by adjusting the weight of five key indicators in real time, generating a customized composite score for every district in the country.
 
-🔗 **[Live App](#)** ← *replace with your Streamlit Community Cloud URL*
+🔗 https://us-opportunity-index-jskoprnalsonldgqx7mdapp.streamlit.app/
 
-![App Screenshot](#) ← *replace with a screenshot after deployment*
+![US Opportunity Index Explorer Example](assets/Streamlit.png)
 
 ---
 
