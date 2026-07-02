@@ -1,0 +1,441 @@
+name,population,income,educational attainment,unemployment,health insurance coverage,housing cost burden,state,congressional district
+"Congressional District 1 (118th Congress), Alabama",724287,92780,26.6,-888888888,713431,28554,01,01
+"Congressional District 2 (118th Congress), Alabama",717019,91181,25.3,-888888888,694978,30633,01,02
+"Congressional District 3 (118th Congress), Alabama",721038,87650,23.5,-888888888,707551,32993,01,03
+"Congressional District 4 (118th Congress), Alabama",721519,87827,19.1,-888888888,713903,27171,01,04
+"Congressional District 5 (118th Congress), Alabama",732520,107755,36.1,-888888888,721574,23839,01,05
+"Congressional District 6 (118th Congress), Alabama",714716,111002,39.2,-888888888,707891,20262,01,06
+"Congressional District 7 (118th Congress), Alabama",723154,83080,24.1,-888888888,710538,44231,01,07
+"Congressional District (at Large) (118th Congress), Alaska",733971,124580,31.2,-888888888,704133,18296,02,00
+"Congressional District 1 (118th Congress), Arizona",800544,136950,51.3,-888888888,796454,21894,04,01
+"Congressional District 2 (118th Congress), Arizona",811584,93118,25.5,-888888888,792814,25673,04,02
+"Congressional District 3 (118th Congress), Arizona",803591,90645,19.3,-888888888,794871,24861,04,03
+"Congressional District 4 (118th Congress), Arizona",803744,113595,38.4,-888888888,799635,23563,04,04
+"Congressional District 5 (118th Congress), Arizona",812986,131314,40.2,-888888888,811684,12017,04,05
+"Congressional District 6 (118th Congress), Arizona",798431,105160,38.9,-888888888,774021,27288,04,06
+"Congressional District 7 (118th Congress), Arizona",804461,84502,21.6,-888888888,782303,32590,04,07
+"Congressional District 8 (118th Congress), Arizona",796518,108304,32.2,-888888888,790335,23427,04,08
+"Congressional District 9 (118th Congress), Arizona",836316,99234,22.6,-888888888,812844,21556,04,09
+"Congressional District 1 (118th Congress), Arkansas",753522,82511,17.7,-888888888,731359,34644,05,01
+"Congressional District 2 (118th Congress), Arkansas",755024,95435,32.7,-888888888,744854,29603,05,02
+"Congressional District 3 (118th Congress), Arkansas",770992,106338,31.6,-888888888,764629,22285,05,03
+"Congressional District 4 (118th Congress), Arkansas",753113,77972,18.7,-888888888,736864,35897,05,04
+"Congressional District 1 (118th Congress), California",762487,103319,23.3,-888888888,746351,28315,06,01
+"Congressional District 2 (118th Congress), California",758158,152352,42.4,-888888888,748613,22391,06,02
+"Congressional District 3 (118th Congress), California",770955,143882,40.8,-888888888,761376,18586,06,03
+"Congressional District 4 (118th Congress), California",763128,139847,35.7,-888888888,750426,20797,06,04
+"Congressional District 5 (118th Congress), California",764588,122406,30.8,-888888888,754652,21661,06,05
+"Congressional District 6 (118th Congress), California",755796,119735,30.0,-888888888,752397,23289,06,06
+"Congressional District 7 (118th Congress), California",757893,130428,34.2,-888888888,751957,21654,06,07
+"Congressional District 8 (118th Congress), California",751024,133154,29.9,-888888888,744847,18196,06,08
+"Congressional District 9 (118th Congress), California",767049,125811,21.6,-888888888,757731,17840,06,09
+"Congressional District 10 (118th Congress), California",756742,197423,55.2,-888888888,751566,12540,06,10
+"Congressional District 11 (118th Congress), California",723466,246103,64.2,-888888888,719966,25854,06,11
+"Congressional District 12 (118th Congress), California",746726,187084,53.6,-888888888,742524,25232,06,12
+"Congressional District 13 (118th Congress), California",779049,97159,13.7,-888888888,764602,21108,06,13
+"Congressional District 14 (118th Congress), California",743389,195163,47.1,-888888888,739348,11599,06,14
+"Congressional District 15 (118th Congress), California",742872,209489,48.2,-888888888,739004,11126,06,15
+"Congressional District 16 (118th Congress), California",745878,250001,62.7,-888888888,741859,12776,06,16
+"Congressional District 17 (118th Congress), California",745398,250001,63.3,-888888888,740937,10376,06,17
+"Congressional District 18 (118th Congress), California",756539,151326,23.9,-888888888,745175,12653,06,18
+"Congressional District 19 (118th Congress), California",747226,181778,47.2,-888888888,739237,13393,06,19
+"Congressional District 20 (118th Congress), California",770763,120051,28.8,-888888888,757378,18769,06,20
+"Congressional District 21 (118th Congress), California",757752,93208,16.5,-888888888,750069,29205,06,21
+"Congressional District 22 (118th Congress), California",781420,85405,10.0,-888888888,754136,26621,06,22
+"Congressional District 23 (118th Congress), California",765033,100689,20.9,-888888888,740991,22645,06,23
+"Congressional District 24 (118th Congress), California",758508,142779,38.5,-888888888,745456,20730,06,24
+"Congressional District 25 (118th Congress), California",773254,96241,17.2,-888888888,756760,26168,06,25
+"Congressional District 26 (118th Congress), California",753063,153701,37.0,-888888888,746568,12221,06,26
+"Congressional District 27 (118th Congress), California",744880,131091,29.7,-888888888,735189,15389,06,27
+"Congressional District 28 (118th Congress), California",745250,164277,48.1,-888888888,740072,17608,06,28
+"Congressional District 29 (118th Congress), California",737543,121336,24.5,-888888888,733751,25068,06,29
+"Congressional District 30 (118th Congress), California",744924,168298,50.6,-888888888,740282,34178,06,30
+"Congressional District 31 (118th Congress), California",741057,125631,25.0,-888888888,736855,15138,06,31
+"Congressional District 32 (118th Congress), California",763455,178504,51.9,-888888888,759483,20066,06,32
+"Congressional District 33 (118th Congress), California",759341,116823,20.9,-888888888,751137,17410,06,33
+"Congressional District 34 (118th Congress), California",753344,129723,28.5,-888888888,740863,35811,06,34
+"Congressional District 35 (118th Congress), California",762560,121891,22.7,-888888888,752966,14353,06,35
+"Congressional District 36 (118th Congress), California",737417,206914,66.5,-888888888,733839,19486,06,36
+"Congressional District 37 (118th Congress), California",747049,123795,28.8,-888888888,744232,33898,06,37
+"Congressional District 38 (118th Congress), California",744868,132648,30.0,-888888888,741217,13725,06,38
+"Congressional District 39 (118th Congress), California",759641,115965,19.7,-888888888,755939,13969,06,39
+"Congressional District 40 (118th Congress), California",754183,177389,50.7,-888888888,752021,12370,06,40
+"Congressional District 41 (118th Congress), California",781445,129430,30.5,-888888888,774047,17884,06,41
+"Congressional District 42 (118th Congress), California",744568,132208,25.5,-888888888,740500,21490,06,42
+"Congressional District 43 (118th Congress), California",734451,116722,22.1,-888888888,731613,24180,06,43
+"Congressional District 44 (118th Congress), California",748280,127778,23.1,-888888888,741435,18624,06,44
+"Congressional District 45 (118th Congress), California",750565,150527,38.1,-888888888,747288,14760,06,45
+"Congressional District 46 (118th Congress), California",756572,132852,22.3,-888888888,749303,16247,06,46
+"Congressional District 47 (118th Congress), California",753479,191046,59.0,-888888888,751384,16249,06,47
+"Congressional District 48 (118th Congress), California",759864,143387,34.2,-888888888,748263,13364,06,48
+"Congressional District 49 (118th Congress), California",754908,172308,48.3,-888888888,721570,13221,06,49
+"Congressional District 50 (118th Congress), California",746295,180980,59.4,-888888888,723680,18941,06,50
+"Congressional District 51 (118th Congress), California",761282,148975,45.2,-888888888,741277,17549,06,51
+"Congressional District 52 (118th Congress), California",757408,127483,24.5,-888888888,729606,18388,06,52
+"Congressional District 1 (118th Congress), Colorado",719744,141146,55.6,-888888888,712528,26064,08,01
+"Congressional District 2 (118th Congress), Colorado",721105,144600,58.8,-888888888,716476,22316,08,02
+"Congressional District 3 (118th Congress), Colorado",726135,92112,32.3,-888888888,716403,28441,08,03
+"Congressional District 4 (118th Congress), Colorado",741771,144839,47.0,-888888888,731886,13458,08,04
+"Congressional District 5 (118th Congress), Colorado",726912,117748,41.3,-888888888,688092,17217,08,05
+"Congressional District 6 (118th Congress), Colorado",723968,131275,44.6,-888888888,717744,16622,08,06
+"Congressional District 7 (118th Congress), Colorado",721623,136637,48.2,-888888888,705893,15512,08,07
+"Congressional District 8 (118th Congress), Colorado",729516,121358,28.8,-888888888,724781,16625,08,08
+"Congressional District 1 (118th Congress), Connecticut",717481,126916,39.2,-888888888,709931,25082,09,01
+"Congressional District 2 (118th Congress), Connecticut",716835,130933,38.9,-888888888,699406,18956,09,02
+"Congressional District 3 (118th Congress), Connecticut",718781,132238,39.8,-888888888,713197,23460,09,03
+"Congressional District 4 (118th Congress), Connecticut",722755,187939,53.6,-888888888,718733,18992,09,04
+"Congressional District 5 (118th Congress), Connecticut",722496,130554,38.6,-888888888,714436,23682,09,05
+"Congressional Districts not defined (118th Congress), Connecticut",0,-666666666,,-888888888,0,0,09,ZZ
+"Congressional District (at Large) (118th Congress), Delaware",1005872,110928,35.3,-888888888,992298,29291,10,00
+"Delegate District (at Large) (118th Congress), District of Columbia",672079,187029,63.6,-888888888,663014,28998,11,98
+"Congressional District 1 (118th Congress), Florida",781771,102299,31.5,-888888888,738713,22016,12,01
+"Congressional District 2 (118th Congress), Florida",781278,92969,30.7,-888888888,740957,31851,12,02
+"Congressional District 3 (118th Congress), Florida",779881,89322,28.4,-888888888,746506,33321,12,03
+"Congressional District 4 (118th Congress), Florida",785432,96686,26.5,-888888888,768485,27302,12,04
+"Congressional District 5 (118th Congress), Florida",791831,120377,44.4,-888888888,776958,20461,12,05
+"Congressional District 6 (118th Congress), Florida",796745,84889,24.6,-888888888,786871,31734,12,06
+"Congressional District 7 (118th Congress), Florida",780070,100928,36.1,-888888888,774688,21587,12,07
+"Congressional District 8 (118th Congress), Florida",786240,96814,33.5,-888888888,777572,23803,12,08
+"Congressional District 9 (118th Congress), Florida",778760,91965,32.7,-888888888,775265,20360,12,09
+"Congressional District 10 (118th Congress), Florida",787492,103498,36.4,-888888888,777860,27129,12,10
+"Congressional District 11 (118th Congress), Florida",796446,105465,35.0,-888888888,782473,18096,12,11
+"Congressional District 12 (118th Congress), Florida",793533,85628,23.5,-888888888,784940,29156,12,12
+"Congressional District 13 (118th Congress), Florida",768306,101013,34.3,-888888888,756224,29611,12,13
+"Congressional District 14 (118th Congress), Florida",776343,109627,40.3,-888888888,767426,30523,12,14
+"Congressional District 15 (118th Congress), Florida",799268,106409,32.9,-888888888,791818,27140,12,15
+"Congressional District 16 (118th Congress), Florida",797764,110000,34.9,-888888888,789648,20704,12,16
+"Congressional District 17 (118th Congress), Florida",805607,93991,32.2,-888888888,795568,26212,12,17
+"Congressional District 18 (118th Congress), Florida",800215,85091,19.9,-888888888,784772,26960,12,18
+"Congressional District 19 (118th Congress), Florida",787875,103259,37.0,-888888888,781028,25888,12,19
+"Congressional District 20 (118th Congress), Florida",777341,85824,25.1,-888888888,767532,33527,12,20
+"Congressional District 21 (118th Congress), Florida",791702,105695,35.2,-888888888,784337,23531,12,21
+"Congressional District 22 (118th Congress), Florida",773299,105651,37.3,-888888888,767709,25874,12,22
+"Congressional District 23 (118th Congress), Florida",767250,120812,44.5,-888888888,759425,26805,12,23
+"Congressional District 24 (118th Congress), Florida",776655,87093,30.4,-888888888,771959,32188,12,24
+"Congressional District 25 (118th Congress), Florida",768721,124489,41.0,-888888888,765749,26126,12,25
+"Congressional District 26 (118th Congress), Florida",783327,100176,29.6,-888888888,775350,27714,12,26
+"Congressional District 27 (118th Congress), Florida",751136,128688,42.1,-888888888,746004,30102,12,27
+"Congressional District 28 (118th Congress), Florida",764593,105233,29.6,-888888888,755751,21305,12,28
+"Congressional District 1 (118th Congress), Georgia",778015,96033,27.9,-888888888,747054,27028,13,01
+"Congressional District 2 (118th Congress), Georgia",757600,85452,21.3,-888888888,724516,43453,13,02
+"Congressional District 3 (118th Congress), Georgia",775231,105700,28.6,-888888888,766254,24149,13,03
+"Congressional District 4 (118th Congress), Georgia",770385,105155,40.9,-888888888,765202,22102,13,04
+"Congressional District 5 (118th Congress), Georgia",759666,139472,54.9,-888888888,749191,37043,13,05
+"Congressional District 6 (118th Congress), Georgia",776224,162660,59.1,-888888888,773761,11091,13,06
+"Congressional District 7 (118th Congress), Georgia",769543,116842,40.9,-888888888,767964,15827,13,07
+"Congressional District 8 (118th Congress), Georgia",768869,94622,23.0,-888888888,739362,30624,13,08
+"Congressional District 9 (118th Congress), Georgia",779431,103725,30.3,-888888888,769390,20569,13,09
+"Congressional District 10 (118th Congress), Georgia",789054,103061,29.6,-888888888,778677,25368,13,10
+"Congressional District 11 (118th Congress), Georgia",779392,123746,42.7,-888888888,773056,18778,13,11
+"Congressional District 12 (118th Congress), Georgia",768903,94211,23.9,-888888888,737422,32443,13,12
+"Congressional District 13 (118th Congress), Georgia",775125,94070,30.7,-888888888,769961,21182,13,13
+"Congressional District 14 (118th Congress), Georgia",775152,100560,23.3,-888888888,765709,21379,13,14
+"Congressional District 1 (118th Congress), Hawaii",722336,144650,38.9,-888888888,689887,15032,15,01
+"Congressional District 2 (118th Congress), Hawaii",723299,126474,31.9,-888888888,696221,15483,15,02
+"Congressional District 1 (118th Congress), Idaho",957699,99534,29.6,-888888888,943877,22767,16,01
+"Congressional District 2 (118th Congress), Idaho",935597,97358,32.9,-888888888,922908,25453,16,02
+"Congressional District 1 (118th Congress), Illinois",748580,113083,32.1,-888888888,743437,36841,17,01
+"Congressional District 2 (118th Congress), Illinois",743574,90777,24.1,-888888888,733378,36047,17,02
+"Congressional District 3 (118th Congress), Illinois",739856,126255,35.7,-888888888,735704,20199,17,03
+"Congressional District 4 (118th Congress), Illinois",733798,109013,24.0,-888888888,722821,19593,17,04
+"Congressional District 5 (118th Congress), Illinois",746503,170843,65.4,-888888888,741267,19592,17,05
+"Congressional District 6 (118th Congress), Illinois",746605,129121,43.9,-888888888,741401,18409,17,06
+"Congressional District 7 (118th Congress), Illinois",737077,129341,47.1,-888888888,733230,41482,17,07
+"Congressional District 8 (118th Congress), Illinois",749409,124055,39.8,-888888888,745168,15879,17,08
+"Congressional District 9 (118th Congress), Illinois",743003,144470,55.3,-888888888,733069,23587,17,09
+"Congressional District 10 (118th Congress), Illinois",752196,142519,46.5,-888888888,733582,15314,17,10
+"Congressional District 11 (118th Congress), Illinois",750921,136492,44.8,-888888888,745547,14742,17,11
+"Congressional District 12 (118th Congress), Illinois",748190,99348,24.1,-888888888,723976,28369,17,12
+"Congressional District 13 (118th Congress), Illinois",747026,95042,31.7,-888888888,737315,35595,17,13
+"Congressional District 14 (118th Congress), Illinois",759546,120263,33.1,-888888888,750478,16926,17,14
+"Congressional District 15 (118th Congress), Illinois",749694,99163,25.5,-888888888,730290,23892,17,15
+"Congressional District 16 (118th Congress), Illinois",750034,109655,31.3,-888888888,741685,20024,17,16
+"Congressional District 17 (118th Congress), Illinois",746641,87972,24.2,-888888888,730150,39761,17,17
+"Congressional Districts not defined (118th Congress), Illinois",0,-666666666,,-888888888,0,0,17,ZZ
+"Congressional District 1 (118th Congress), Indiana",755814,102622,25.8,-888888888,743617,25774,18,01
+"Congressional District 2 (118th Congress), Indiana",751869,89752,24.3,-888888888,741999,24874,18,02
+"Congressional District 3 (118th Congress), Indiana",757902,91259,25.0,-888888888,750189,22829,18,03
+"Congressional District 4 (118th Congress), Indiana",763237,105861,31.2,-888888888,751301,21741,18,04
+"Congressional District 5 (118th Congress), Indiana",764118,112992,40.3,-888888888,753764,22243,18,05
+"Congressional District 6 (118th Congress), Indiana",757251,99903,28.2,-888888888,745783,23688,18,06
+"Congressional District 7 (118th Congress), Indiana",750003,94340,35.5,-888888888,742221,35588,18,07
+"Congressional District 8 (118th Congress), Indiana",754928,89452,22.6,-888888888,738548,29613,18,08
+"Congressional District 9 (118th Congress), Indiana",756630,97023,26.6,-888888888,747489,25084,18,09
+"Congressional District 1 (118th Congress), Iowa",798572,105404,32.2,-888888888,785266,28557,19,01
+"Congressional District 2 (118th Congress), Iowa",795074,98483,28.8,-888888888,785500,26593,19,02
+"Congressional District 3 (118th Congress), Iowa",806699,111941,36.0,-888888888,796715,24563,19,03
+"Congressional District 4 (118th Congress), Iowa",795592,98105,26.3,-888888888,782135,28195,19,04
+"Congressional District 1 (118th Congress), Kansas",732112,95093,29.9,-888888888,711767,27568,20,01
+"Congressional District 2 (118th Congress), Kansas",732031,94788,27.7,-888888888,711072,28270,20,02
+"Congressional District 3 (118th Congress), Kansas",738537,139042,51.6,-888888888,732405,14555,20,03
+"Congressional District 4 (118th Congress), Kansas",734889,98678,30.6,-888888888,720555,26066,20,04
+"Congressional District 1 (118th Congress), Kentucky",752660,83235,20.4,-888888888,730471,34287,21,01
+"Congressional District 2 (118th Congress), Kentucky",759614,94219,23.5,-888888888,746379,28065,21,02
+"Congressional District 3 (118th Congress), Kentucky",742760,99005,35.6,-888888888,734683,31700,21,03
+"Congressional District 4 (118th Congress), Kentucky",756119,110501,31.4,-888888888,745557,21958,21,04
+"Congressional District 5 (118th Congress), Kentucky",745869,77852,15.5,-888888888,726790,40300,21,05
+"Congressional District 6 (118th Congress), Kentucky",753703,102839,35.9,-888888888,745453,29467,21,06
+"Congressional District 1 (118th Congress), Louisiana",765531,105159,33.7,-888888888,757007,25188,22,01
+"Congressional District 2 (118th Congress), Louisiana",761873,88998,27.5,-888888888,749740,48324,22,02
+"Congressional District 3 (118th Congress), Louisiana",768212,100763,23.9,-888888888,760388,33380,22,03
+"Congressional District 4 (118th Congress), Louisiana",768802,88452,20.6,-888888888,739654,38836,22,04
+"Congressional District 5 (118th Congress), Louisiana",770235,90795,20.5,-888888888,735840,41066,22,05
+"Congressional District 6 (118th Congress), Louisiana",786372,110046,32.9,-888888888,780442,23911,22,06
+"Congressional District 1 (118th Congress), Maine",689679,112850,42.7,-888888888,680967,20159,23,01
+"Congressional District 2 (118th Congress), Maine",687721,91092,27.9,-888888888,678840,27970,23,02
+"Congressional District 1 (118th Congress), Maryland",776906,122983,34.2,-888888888,766135,21477,24,01
+"Congressional District 2 (118th Congress), Maryland",769821,135971,45.2,-888888888,761825,18676,24,02
+"Congressional District 3 (118th Congress), Maryland",773638,164530,52.8,-888888888,760667,11656,24,03
+"Congressional District 4 (118th Congress), Maryland",758555,125721,32.8,-888888888,753129,20248,24,04
+"Congressional District 5 (118th Congress), Maryland",782752,150774,41.0,-888888888,761144,11709,24,05
+"Congressional District 6 (118th Congress), Maryland",784302,135302,40.3,-888888888,767736,18159,24,06
+"Congressional District 7 (118th Congress), Maryland",757178,100500,31.9,-888888888,748511,43069,24,07
+"Congressional District 8 (118th Congress), Maryland",767586,191365,63.4,-888888888,760271,13798,24,08
+"Congressional District 1 (118th Congress), Massachusetts",776064,112798,31.8,-888888888,768357,33737,25,01
+"Congressional District 2 (118th Congress), Massachusetts",776258,143703,45.7,-888888888,768860,24128,25,02
+"Congressional District 3 (118th Congress), Massachusetts",777948,144473,39.6,-888888888,766741,23674,25,03
+"Congressional District 4 (118th Congress), Massachusetts",781422,165609,49.5,-888888888,774707,20709,25,04
+"Congressional District 5 (118th Congress), Massachusetts",773886,197812,60.9,-888888888,767903,19140,25,05
+"Congressional District 6 (118th Congress), Massachusetts",778172,164261,49.2,-888888888,772172,20110,25,06
+"Congressional District 7 (118th Congress), Massachusetts",768505,153361,49.0,-888888888,764906,34731,25,07
+"Congressional District 8 (118th Congress), Massachusetts",777303,162373,51.8,-888888888,770260,22319,25,08
+"Congressional District 9 (118th Congress), Massachusetts",782837,135513,42.0,-888888888,772984,22925,25,09
+"Congressional District 1 (118th Congress), Michigan",780170,84279,27.4,-888888888,765701,31796,26,01
+"Congressional District 2 (118th Congress), Michigan",780291,87909,22.0,-888888888,764745,26580,26,02
+"Congressional District 3 (118th Congress), Michigan",774756,105055,37.6,-888888888,765442,25023,26,03
+"Congressional District 4 (118th Congress), Michigan",775911,102735,32.6,-888888888,769612,25902,26,04
+"Congressional District 5 (118th Congress), Michigan",773369,92777,23.3,-888888888,757640,25941,26,05
+"Congressional District 6 (118th Congress), Michigan",768429,135257,51.5,-888888888,761523,22075,26,06
+"Congressional District 7 (118th Congress), Michigan",774470,111404,37.0,-888888888,769636,25360,26,07
+"Congressional District 8 (118th Congress), Michigan",771369,89896,24.3,-888888888,764058,35071,26,08
+"Congressional District 9 (118th Congress), Michigan",775194,111374,28.7,-888888888,768489,22127,26,09
+"Congressional District 10 (118th Congress), Michigan",770400,100240,29.9,-888888888,764957,26059,26,10
+"Congressional District 11 (118th Congress), Michigan",773603,126499,50.2,-888888888,769163,23063,26,11
+"Congressional District 12 (118th Congress), Michigan",766047,90285,26.6,-888888888,762191,41572,26,12
+"Congressional District 13 (118th Congress), Michigan",767586,85980,22.2,-888888888,761141,49216,26,13
+"Congressional District 1 (118th Congress), Minnesota",713894,107788,31.7,-888888888,702718,21548,27,01
+"Congressional District 2 (118th Congress), Minnesota",721631,135983,42.8,-888888888,717116,11685,27,02
+"Congressional District 3 (118th Congress), Minnesota",706969,146576,50.8,-888888888,702814,15053,27,03
+"Congressional District 4 (118th Congress), Minnesota",706101,127548,47.5,-888888888,699483,20290,27,04
+"Congressional District 5 (118th Congress), Minnesota",707120,126556,50.6,-888888888,700222,27516,27,05
+"Congressional District 6 (118th Congress), Minnesota",724855,130717,35.1,-888888888,718857,13112,27,06
+"Congressional District 7 (118th Congress), Minnesota",714086,99403,24.6,-888888888,704151,24887,27,07
+"Congressional District 8 (118th Congress), Minnesota",719060,101486,27.5,-888888888,707527,24395,27,08
+"Congressional District 1 (118th Congress), Mississippi",743078,89247,23.7,-888888888,731714,28983,28,01
+"Congressional District 2 (118th Congress), Mississippi",726691,75302,21.0,-888888888,705551,42387,28,02
+"Congressional District 3 (118th Congress), Mississippi",738313,93193,27.9,-888888888,722733,31725,28,03
+"Congressional District 4 (118th Congress), Mississippi",743356,89655,24.0,-888888888,724447,30652,28,04
+"Congressional District 1 (118th Congress), Missouri",759116,93660,37.2,-888888888,750146,43352,29,01
+"Congressional District 2 (118th Congress), Missouri",765299,131676,49.6,-888888888,757985,15806,29,02
+"Congressional District 3 (118th Congress), Missouri",775773,108929,35.2,-888888888,761901,22141,29,03
+"Congressional District 4 (118th Congress), Missouri",777788,91690,24.9,-888888888,752878,26034,29,04
+"Congressional District 5 (118th Congress), Missouri",769211,102277,33.9,-888888888,762852,32871,29,05
+"Congressional District 6 (118th Congress), Missouri",771228,102157,26.4,-888888888,752410,25168,29,06
+"Congressional District 7 (118th Congress), Missouri",777886,88524,27.1,-888888888,769451,31440,29,07
+"Congressional District 8 (118th Congress), Missouri",771880,87681,20.4,-888888888,755166,31812,29,08
+"Congressional District 1 (118th Congress), Montana",556623,100681,38.0,-888888888,550349,20184,30,01
+"Congressional District 2 (118th Congress), Montana",548449,97753,31.0,-888888888,537827,19372,30,02
+"Congressional District 1 (118th Congress), Nebraska",656585,112494,35.7,-888888888,645015,19102,31,01
+"Congressional District 2 (118th Congress), Nebraska",657288,121574,42.5,-888888888,650286,21101,31,02
+"Congressional District 3 (118th Congress), Nebraska",652053,96250,24.4,-888888888,642241,24034,31,03
+"Congressional District 1 (118th Congress), Nevada",763217,100962,25.2,-888888888,758775,27972,32,01
+"Congressional District 2 (118th Congress), Nevada",783965,113436,28.9,-888888888,772217,23402,32,02
+"Congressional District 3 (118th Congress), Nevada",795278,109958,34.2,-888888888,792624,22030,32,03
+"Congressional District 4 (118th Congress), Nevada",798540,99189,20.7,-888888888,779426,23742,32,04
+"Congressional District 1 (118th Congress), New Hampshire",694195,136380,40.4,-888888888,686611,17193,33,01
+"Congressional District 2 (118th Congress), New Hampshire",693639,130672,39.2,-888888888,684892,16823,33,02
+"Congressional Districts not defined (118th Congress), New Hampshire",0,-666666666,,-888888888,0,0,33,ZZ
+"Congressional District 1 (118th Congress), New Jersey",773787,126738,35.0,-888888888,767260,24746,34,01
+"Congressional District 2 (118th Congress), New Jersey",779492,117813,30.5,-888888888,764965,23940,34,02
+"Congressional District 3 (118th Congress), New Jersey",779285,149434,45.9,-888888888,762566,14815,34,03
+"Congressional District 4 (118th Congress), New Jersey",780618,133776,39.5,-888888888,775188,17692,34,04
+"Congressional District 5 (118th Congress), New Jersey",772595,176542,54.5,-888888888,765845,13882,34,05
+"Congressional District 6 (118th Congress), New Jersey",773496,149327,42.1,-888888888,766854,18794,34,06
+"Congressional District 7 (118th Congress), New Jersey",777102,176165,54.4,-888888888,770629,12423,34,07
+"Congressional District 8 (118th Congress), New Jersey",758849,149843,40.3,-888888888,753975,28915,34,08
+"Congressional District 9 (118th Congress), New Jersey",763146,147791,33.4,-888888888,760405,23949,34,09
+"Congressional District 10 (118th Congress), New Jersey",765978,132252,32.0,-888888888,756134,35684,34,10
+"Congressional District 11 (118th Congress), New Jersey",771662,187679,58.2,-888888888,766329,12841,34,11
+"Congressional District 12 (118th Congress), New Jersey",771004,160733,48.3,-888888888,764258,19387,34,12
+"Congressional District 1 (118th Congress), New Mexico",709243,100656,38.9,-888888888,701736,33048,35,01
+"Congressional District 2 (118th Congress), New Mexico",704881,81957,24.0,-888888888,688192,28603,35,02
+"Congressional District 3 (118th Congress), New Mexico",700644,92684,26.8,-888888888,687943,29387,35,03
+"Congressional District 1 (118th Congress), New York",778379,169005,47.6,-888888888,772516,12923,36,01
+"Congressional District 2 (118th Congress), New York",774678,154347,32.4,-888888888,770859,13022,36,02
+"Congressional District 3 (118th Congress), New York",773153,180826,52.0,-888888888,768095,12727,36,03
+"Congressional District 4 (118th Congress), New York",772033,173444,43.8,-888888888,767314,11428,36,04
+"Congressional District 5 (118th Congress), New York",792001,124321,27.9,-888888888,786114,24405,36,05
+"Congressional District 6 (118th Congress), New York",738059,124194,38.9,-888888888,733947,24840,36,06
+"Congressional District 7 (118th Congress), New York",745736,143394,44.5,-888888888,744182,28530,36,07
+"Congressional District 8 (118th Congress), New York",769904,124948,34.2,-888888888,765175,45642,36,08
+"Congressional District 9 (118th Congress), New York",749197,133460,37.7,-888888888,745411,34140,36,09
+"Congressional District 10 (118th Congress), New York",732690,244317,61.7,-888888888,728115,29848,36,10
+"Congressional District 11 (118th Congress), New York",753792,136767,36.7,-888888888,749054,23222,36,11
+"Congressional District 12 (118th Congress), New York",716964,250001,80.2,-888888888,714147,27247,36,12
+"Congressional District 13 (118th Congress), New York",786215,153690,35.5,-888888888,780528,57988,36,13
+"Congressional District 14 (118th Congress), New York",720139,112582,28.0,-888888888,711184,32241,36,14
+"Congressional District 15 (118th Congress), New York",751612,122045,21.9,-888888888,744306,61800,36,15
+"Congressional District 16 (118th Congress), New York",776130,180754,47.9,-888888888,771225,25231,36,16
+"Congressional District 17 (118th Congress), New York",775107,174777,48.7,-888888888,765601,14312,36,17
+"Congressional District 18 (118th Congress), New York",781059,131783,35.3,-888888888,765559,22687,36,18
+"Congressional District 19 (118th Congress), New York",773744,104491,33.8,-888888888,762096,33256,36,19
+"Congressional District 20 (118th Congress), New York",780015,127428,41.9,-888888888,772602,28995,36,20
+"Congressional District 21 (118th Congress), New York",772318,103421,26.9,-888888888,746956,29753,36,21
+"Congressional District 22 (118th Congress), New York",769228,107603,34.1,-888888888,757916,31138,36,22
+"Congressional District 23 (118th Congress), New York",772644,106667,30.3,-888888888,762930,31013,36,23
+"Congressional District 24 (118th Congress), New York",774291,101284,26.1,-888888888,756832,27863,36,24
+"Congressional District 25 (118th Congress), New York",771436,109503,40.7,-888888888,764861,31557,36,25
+"Congressional District 26 (118th Congress), New York",771795,101770,34.8,-888888888,766721,42094,36,26
+"Congressional District 1 (118th Congress), North Carolina",750075,84731,22.4,-888888888,733820,38859,37,01
+"Congressional District 2 (118th Congress), North Carolina",753587,147246,59.3,-888888888,750808,17950,37,02
+"Congressional District 3 (118th Congress), North Carolina",752729,90013,24.9,-888888888,695551,28272,37,03
+"Congressional District 4 (118th Congress), North Carolina",752243,114323,44.7,-888888888,741240,26634,37,04
+"Congressional District 5 (118th Congress), North Carolina",749232,88397,28.7,-888888888,740149,30818,37,05
+"Congressional District 6 (118th Congress), North Carolina",750506,96518,33.3,-888888888,743062,30380,37,06
+"Congressional District 7 (118th Congress), North Carolina",765878,94160,30.7,-888888888,750977,31835,37,07
+"Congressional District 8 (118th Congress), North Carolina",757161,101129,26.6,-888888888,747442,23910,37,08
+"Congressional District 9 (118th Congress), North Carolina",754471,92687,28.5,-888888888,705596,28521,37,09
+"Congressional District 10 (118th Congress), North Carolina",757806,94022,25.0,-888888888,748790,24235,37,10
+"Congressional District 11 (118th Congress), North Carolina",752083,91895,34.8,-888888888,742740,27709,37,11
+"Congressional District 12 (118th Congress), North Carolina",754074,108258,40.0,-888888888,750211,20294,37,12
+"Congressional District 13 (118th Congress), North Carolina",774071,117086,37.9,-888888888,761758,20895,37,13
+"Congressional District 14 (118th Congress), North Carolina",760424,134694,49.1,-888888888,754560,22607,37,14
+"Congressional District (at Large) (118th Congress), North Dakota",779361,114475,32.3,-888888888,761569,27857,38,00
+"Congressional District 1 (118th Congress), Ohio",788977,125750,46.1,-888888888,775522,34902,39,01
+"Congressional District 2 (118th Congress), Ohio",786699,96982,21.0,-888888888,770142,29643,39,02
+"Congressional District 3 (118th Congress), Ohio",785542,116429,44.6,-888888888,781498,31678,39,03
+"Congressional District 4 (118th Congress), Ohio",792206,106737,28.6,-888888888,772550,23250,39,04
+"Congressional District 5 (118th Congress), Ohio",786317,97331,24.8,-888888888,775902,28406,39,05
+"Congressional District 6 (118th Congress), Ohio",781400,87370,20.6,-888888888,763814,34178,39,06
+"Congressional District 7 (118th Congress), Ohio",782342,111538,37.4,-888888888,774628,20491,39,07
+"Congressional District 8 (118th Congress), Ohio",784950,107030,30.3,-888888888,777916,22314,39,08
+"Congressional District 9 (118th Congress), Ohio",783014,97045,27.2,-888888888,773554,33329,39,09
+"Congressional District 10 (118th Congress), Ohio",784850,100203,31.5,-888888888,771120,34472,39,10
+"Congressional District 11 (118th Congress), Ohio",776190,88812,32.6,-888888888,766872,53755,39,11
+"Congressional District 12 (118th Congress), Ohio",792715,105138,27.2,-888888888,784042,25683,39,12
+"Congressional District 13 (118th Congress), Ohio",783863,101283,33.2,-888888888,775653,31513,39,13
+"Congressional District 14 (118th Congress), Ohio",785287,98060,27.3,-888888888,774846,28411,39,14
+"Congressional District 15 (118th Congress), Ohio",785694,109779,32.8,-888888888,774725,23773,39,15
+"Congressional District 1 (118th Congress), Oklahoma",799564,104502,32.6,-888888888,792687,27786,40,01
+"Congressional District 2 (118th Congress), Oklahoma",800101,83029,19.4,-888888888,782024,31706,40,02
+"Congressional District 3 (118th Congress), Oklahoma",797954,88938,21.9,-888888888,774399,34383,40,03
+"Congressional District 4 (118th Congress), Oklahoma",798638,99948,27.4,-888888888,770624,27774,40,04
+"Congressional District 5 (118th Congress), Oklahoma",799003,108535,37.6,-888888888,787051,26630,40,05
+"Congressional District 1 (118th Congress), Oregon",706333,143049,47.2,-888888888,701349,20405,41,01
+"Congressional District 2 (118th Congress), Oregon",707098,93593,23.7,-888888888,694105,27106,41,02
+"Congressional District 3 (118th Congress), Oregon",697979,126873,40.9,-888888888,693656,22699,41,03
+"Congressional District 4 (118th Congress), Oregon",707398,100159,32.4,-888888888,703108,32352,41,04
+"Congressional District 5 (118th Congress), Oregon",711303,122406,38.2,-888888888,707151,18782,41,05
+"Congressional District 6 (118th Congress), Oregon",708603,120862,34.6,-888888888,697577,21653,41,06
+"Congressional District 1 (118th Congress), Pennsylvania",764829,146629,44.0,-888888888,757695,14426,42,01
+"Congressional District 2 (118th Congress), Pennsylvania",751754,88948,27.6,-888888888,744987,43833,42,02
+"Congressional District 3 (118th Congress), Pennsylvania",759251,103017,42.6,-888888888,753959,50417,42,03
+"Congressional District 4 (118th Congress), Pennsylvania",768425,146504,48.6,-888888888,754915,15561,42,04
+"Congressional District 5 (118th Congress), Pennsylvania",762831,128026,41.9,-888888888,754883,26014,42,05
+"Congressional District 6 (118th Congress), Pennsylvania",771480,149800,48.1,-888888888,765566,17363,42,06
+"Congressional District 7 (118th Congress), Pennsylvania",770006,116329,32.0,-888888888,761627,21395,42,07
+"Congressional District 8 (118th Congress), Pennsylvania",765141,97881,27.1,-888888888,751272,31448,42,08
+"Congressional District 9 (118th Congress), Pennsylvania",764854,98570,22.7,-888888888,745956,26642,42,09
+"Congressional District 10 (118th Congress), Pennsylvania",772418,109130,34.1,-888888888,759765,23831,42,10
+"Congressional District 11 (118th Congress), Pennsylvania",768324,109322,30.0,-888888888,760748,18733,42,11
+"Congressional District 12 (118th Congress), Pennsylvania",761238,111728,40.8,-888888888,753477,35705,42,12
+"Congressional District 13 (118th Congress), Pennsylvania",764623,96640,21.7,-888888888,752423,25158,42,13
+"Congressional District 14 (118th Congress), Pennsylvania",760119,97706,26.6,-888888888,744713,30507,42,14
+"Congressional District 15 (118th Congress), Pennsylvania",760232,94974,25.1,-888888888,737483,28740,42,15
+"Congressional District 16 (118th Congress), Pennsylvania",763502,99679,29.4,-888888888,749448,30536,42,16
+"Congressional District 17 (118th Congress), Pennsylvania",757491,120712,44.3,-888888888,751618,24731,42,17
+"Congressional District 1 (118th Congress), Rhode Island",543443,127515,37.7,-888888888,534825,21489,44,01
+"Congressional District 2 (118th Congress), Rhode Island",551928,122950,36.9,-888888888,543871,18231,44,02
+"Congressional District 1 (118th Congress), South Carolina",748351,114369,42.2,-888888888,728525,16628,45,01
+"Congressional District 2 (118th Congress), South Carolina",743300,97474,35.7,-888888888,724953,23910,45,02
+"Congressional District 3 (118th Congress), South Carolina",740360,90886,25.8,-888888888,729839,29047,45,03
+"Congressional District 4 (118th Congress), South Carolina",748540,98564,35.6,-888888888,740744,26569,45,04
+"Congressional District 5 (118th Congress), South Carolina",745996,100301,28.6,-888888888,733338,23983,45,05
+"Congressional District 6 (118th Congress), South Carolina",736924,85864,28.7,-888888888,714507,40126,45,06
+"Congressional District 7 (118th Congress), South Carolina",749303,83114,23.8,-888888888,741252,29574,45,07
+"Congressional District (at Large) (118th Congress), South Dakota",899194,103308,31.1,-888888888,879723,27305,46,00
+"Congressional District 1 (118th Congress), Tennessee",775141,82045,22.9,-888888888,764701,32454,47,01
+"Congressional District 2 (118th Congress), Tennessee",781418,101001,33.5,-888888888,775398,25388,47,02
+"Congressional District 3 (118th Congress), Tennessee",778339,97919,28.4,-888888888,768359,29193,47,03
+"Congressional District 4 (118th Congress), Tennessee",784468,94855,25.0,-888888888,777062,22116,47,04
+"Congressional District 5 (118th Congress), Tennessee",780166,121550,46.3,-888888888,776248,18162,47,05
+"Congressional District 6 (118th Congress), Tennessee",780363,92937,27.9,-888888888,770801,28110,47,06
+"Congressional District 7 (118th Congress), Tennessee",777488,102100,33.8,-888888888,753987,24357,47,07
+"Congressional District 8 (118th Congress), Tennessee",765252,103051,29.0,-888888888,748590,28042,47,08
+"Congressional District 9 (118th Congress), Tennessee",763447,86681,27.0,-888888888,752979,39956,47,09
+"Congressional District 1 (118th Congress), Texas",773654,98866,22.2,-888888888,755123,27273,48,01
+"Congressional District 2 (118th Congress), Texas",784437,131959,39.0,-888888888,782300,14417,48,02
+"Congressional District 3 (118th Congress), Texas",809668,156038,49.1,-888888888,806041,11555,48,03
+"Congressional District 4 (118th Congress), Texas",795941,144404,43.8,-888888888,788999,18143,48,04
+"Congressional District 5 (118th Congress), Texas",787200,107312,23.8,-888888888,780449,19909,48,05
+"Congressional District 6 (118th Congress), Texas",774748,112210,25.5,-888888888,753841,17781,48,06
+"Congressional District 7 (118th Congress), Texas",791069,144899,49.4,-888888888,786340,26991,48,07
+"Congressional District 8 (118th Congress), Texas",800563,118277,32.4,-888888888,793195,15240,48,08
+"Congressional District 9 (118th Congress), Texas",760231,103944,31.7,-888888888,757466,27689,48,09
+"Congressional District 10 (118th Congress), Texas",780439,133972,40.4,-888888888,764847,25486,48,10
+"Congressional District 11 (118th Congress), Texas",768775,104014,24.0,-888888888,744306,27609,48,11
+"Congressional District 12 (118th Congress), Texas",789129,123983,34.1,-888888888,777096,20252,48,12
+"Congressional District 13 (118th Congress), Texas",773844,102745,25.5,-888888888,745115,26849,48,13
+"Congressional District 14 (118th Congress), Texas",770392,122549,25.2,-888888888,742682,26937,48,14
+"Congressional District 15 (118th Congress), Texas",776234,93410,22.4,-888888888,763469,30800,48,15
+"Congressional District 16 (118th Congress), Texas",772426,86455,26.4,-888888888,749967,33235,48,16
+"Congressional District 17 (118th Congress), Texas",784812,109553,26.5,-888888888,759934,30758,48,17
+"Congressional District 18 (118th Congress), Texas",772609,110240,27.4,-888888888,757471,35135,48,18
+"Congressional District 19 (118th Congress), Texas",768927,103407,25.2,-888888888,737249,30848,48,19
+"Congressional District 20 (118th Congress), Texas",784135,93761,25.1,-888888888,775170,29396,48,20
+"Congressional District 21 (118th Congress), Texas",793549,134753,45.8,-888888888,781548,17972,48,21
+"Congressional District 22 (118th Congress), Texas",807871,147972,45.9,-888888888,801675,15973,48,22
+"Congressional District 23 (118th Congress), Texas",757759,118630,30.8,-888888888,725618,20821,48,23
+"Congressional District 24 (118th Congress), Texas",758537,162292,53.5,-888888888,755150,13116,48,24
+"Congressional District 25 (118th Congress), Texas",793714,112307,30.7,-888888888,786554,22071,48,25
+"Congressional District 26 (118th Congress), Texas",801992,151415,46.3,-888888888,799474,11189,48,26
+"Congressional District 27 (118th Congress), Texas",771646,101372,20.7,-888888888,751234,28280,48,27
+"Congressional District 28 (118th Congress), Texas",774349,96723,20.9,-888888888,765819,27571,48,28
+"Congressional District 29 (118th Congress), Texas",757251,85152,12.3,-888888888,755460,30242,48,29
+"Congressional District 30 (118th Congress), Texas",771661,99454,29.9,-888888888,761641,29036,48,30
+"Congressional District 31 (118th Congress), Texas",810684,128273,37.8,-888888888,775140,17990,48,31
+"Congressional District 32 (118th Congress), Texas",764396,125157,39.9,-888888888,761546,26125,48,32
+"Congressional District 33 (118th Congress), Texas",775186,96592,22.9,-888888888,771211,24865,48,33
+"Congressional District 34 (118th Congress), Texas",773649,83178,18.4,-888888888,767463,33481,48,34
+"Congressional District 35 (118th Congress), Texas",789038,104264,31.8,-888888888,775585,29942,48,35
+"Congressional District 36 (118th Congress), Texas",773758,114941,23.9,-888888888,761437,23518,48,36
+"Congressional District 37 (118th Congress), Texas",770624,163021,61.8,-888888888,767171,27057,48,37
+"Congressional District 38 (118th Congress), Texas",775446,149704,50.2,-888888888,773159,15274,48,38
+"Congressional District 1 (118th Congress), Utah",833456,117295,37.5,-888888888,824868,16004,49,01
+"Congressional District 2 (118th Congress), Utah",836119,111253,32.7,-888888888,828612,17074,49,02
+"Congressional District 3 (118th Congress), Utah",818343,127679,43.3,-888888888,814071,15971,49,03
+"Congressional District 4 (118th Congress), Utah",843269,122334,34.6,-888888888,836917,10955,49,04
+"Congressional District (at Large) (118th Congress), Vermont",645254,110006,42.6,-888888888,639109,22250,50,00
+"Congressional District 1 (118th Congress), Virginia",796108,133929,47.2,-888888888,781522,15700,51,01
+"Congressional District 2 (118th Congress), Virginia",785995,119980,38.1,-888888888,747936,18294,51,02
+"Congressional District 3 (118th Congress), Virginia",776669,95532,29.0,-888888888,723212,32135,51,03
+"Congressional District 4 (118th Congress), Virginia",790076,99387,31.7,-888888888,764890,31569,51,04
+"Congressional District 5 (118th Congress), Virginia",792934,104076,33.5,-888888888,773749,29520,51,05
+"Congressional District 6 (118th Congress), Virginia",786774,100818,27.9,-888888888,773582,27306,51,06
+"Congressional District 7 (118th Congress), Virginia",797241,139566,37.3,-888888888,779767,12111,51,07
+"Congressional District 8 (118th Congress), Virginia",775740,200946,65.4,-888888888,759319,15882,51,08
+"Congressional District 9 (118th Congress), Virginia",783052,86703,23.7,-888888888,765618,32597,51,09
+"Congressional District 10 (118th Congress), Virginia",791262,193385,55.1,-888888888,786456,8072,51,10
+"Congressional District 11 (118th Congress), Virginia",781648,201549,67.6,-888888888,773090,8810,51,11
+"Congressional District 1 (118th Congress), Washington",773262,170276,51.8,-888888888,767321,12956,53,01
+"Congressional District 2 (118th Congress), Washington",775731,123379,35.7,-888888888,761157,23429,53,02
+"Congressional District 3 (118th Congress), Washington",779567,116707,28.3,-888888888,774583,19991,53,03
+"Congressional District 4 (118th Congress), Washington",775997,105624,23.8,-888888888,770792,20380,53,04
+"Congressional District 5 (118th Congress), Washington",780504,104746,31.0,-888888888,765301,29220,53,05
+"Congressional District 6 (118th Congress), Washington",776086,119394,34.1,-888888888,749400,22133,53,06
+"Congressional District 7 (118th Congress), Washington",768537,200035,65.7,-888888888,763883,21484,53,07
+"Congressional District 8 (118th Congress), Washington",773534,155539,41.1,-888888888,770061,11897,53,08
+"Congressional District 9 (118th Congress), Washington",765852,147612,41.5,-888888888,759108,20263,53,09
+"Congressional District 10 (118th Congress), Washington",771914,122034,31.3,-888888888,741691,18449,53,10
+"Congressional District 1 (118th Congress), West Virginia",885040,85810,21.4,-888888888,867306,39753,54,01
+"Congressional District 2 (118th Congress), West Virginia",899422,95654,25.2,-888888888,883424,34268,54,02
+"Congressional District 1 (118th Congress), Wisconsin",732332,106656,30.6,-888888888,723990,23172,55,01
+"Congressional District 2 (118th Congress), Wisconsin",740255,124588,47.5,-888888888,735244,22475,55,02
+"Congressional District 3 (118th Congress), Wisconsin",736688,100498,27.8,-888888888,726529,24972,55,03
+"Congressional District 4 (118th Congress), Wisconsin",727084,97728,33.2,-888888888,721552,38531,55,04
+"Congressional District 5 (118th Congress), Wisconsin",740019,126987,40.2,-888888888,735775,17190,55,05
+"Congressional District 6 (118th Congress), Wisconsin",736607,102664,28.4,-888888888,721383,21551,55,06
+"Congressional District 7 (118th Congress), Wisconsin",740211,97444,25.6,-888888888,731693,23671,55,07
+"Congressional District 8 (118th Congress), Wisconsin",738827,103908,29.0,-888888888,731901,21253,55,08
+"Congressional District (at Large) (118th Congress), Wyoming",579761,104568,29.9,-888888888,569723,20008,56,00
+"Resident Commissioner District (at Large) (118th Congress), Puerto Rico",3254885,47113,,-888888888,3227627,183046,72,98

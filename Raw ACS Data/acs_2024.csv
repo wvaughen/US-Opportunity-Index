@@ -1,0 +1,441 @@
+name,population,income,educational attainment,unemployment,health insurance coverage,housing cost burden,state,congressional district
+"Congressional District 1 (119th Congress), Alabama",735406,95233,25.5,-888888888,721079,26399,01,01
+"Congressional District 2 (119th Congress), Alabama",710301,84400,26.2,-888888888,693408,37607,01,02
+"Congressional District 3 (119th Congress), Alabama",726115,90527,24.1,-888888888,714667,31540,01,03
+"Congressional District 4 (119th Congress), Alabama",727005,93041,21.4,-888888888,719211,25813,01,04
+"Congressional District 5 (119th Congress), Alabama",745693,109357,36.1,-888888888,735629,22739,01,05
+"Congressional District 6 (119th Congress), Alabama",721709,114372,38.4,-888888888,709312,18255,01,06
+"Congressional District 7 (119th Congress), Alabama",720539,89698,26.7,-888888888,710399,40044,01,07
+"Congressional District (at Large) (119th Congress), Alaska",735706,129633,31.7,-888888888,704290,17707,02,00
+"Congressional District 1 (119th Congress), Arizona",804578,141238,52.5,-888888888,800352,20883,04,01
+"Congressional District 2 (119th Congress), Arizona",826257,96673,26.2,-888888888,809526,25221,04,02
+"Congressional District 3 (119th Congress), Arizona",815927,95732,20.4,-888888888,806860,24723,04,03
+"Congressional District 4 (119th Congress), Arizona",804739,117254,39.2,-888888888,800625,22855,04,04
+"Congressional District 5 (119th Congress), Arizona",840221,136346,40.8,-888888888,838779,12416,04,05
+"Congressional District 6 (119th Congress), Arizona",812709,107177,39.5,-888888888,789939,27256,04,06
+"Congressional District 7 (119th Congress), Arizona",808224,86024,22.2,-888888888,785969,31388,04,07
+"Congressional District 8 (119th Congress), Arizona",802956,110746,33.1,-888888888,796376,22548,04,08
+"Congressional District 9 (119th Congress), Arizona",863227,102271,22.9,-888888888,839417,21330,04,09
+"Congressional District 1 (119th Congress), Arkansas",752719,84721,18.4,-888888888,730722,35221,05,01
+"Congressional District 2 (119th Congress), Arkansas",761775,98685,33.3,-888888888,751983,29500,05,02
+"Congressional District 3 (119th Congress), Arkansas",786435,112494,32.1,-888888888,780164,21941,05,03
+"Congressional District 4 (119th Congress), Arkansas",748462,80639,19.1,-888888888,732628,35493,05,04
+"Congressional District 1 (119th Congress), California",760971,107714,23.6,-888888888,745375,29166,06,01
+"Congressional District 2 (119th Congress), California",755468,156643,43.2,-888888888,745886,22039,06,02
+"Congressional District 3 (119th Congress), California",778710,146083,41.6,-888888888,769085,19146,06,03
+"Congressional District 4 (119th Congress), California",764257,142897,36.2,-888888888,751421,21561,06,04
+"Congressional District 5 (119th Congress), California",772813,127332,31.5,-888888888,762901,21183,06,05
+"Congressional District 6 (119th Congress), California",757721,120961,30.9,-888888888,754202,23406,06,06
+"Congressional District 7 (119th Congress), California",764052,134991,34.9,-888888888,757994,20979,06,07
+"Congressional District 8 (119th Congress), California",752539,136088,30.3,-888888888,746085,17585,06,08
+"Congressional District 9 (119th Congress), California",774084,129414,22.7,-888888888,765746,18019,06,09
+"Congressional District 10 (119th Congress), California",760299,202473,55.6,-888888888,754921,13009,06,10
+"Congressional District 11 (119th Congress), California",719712,250001,64.2,-888888888,716409,26941,06,11
+"Congressional District 12 (119th Congress), California",748393,193672,54.1,-888888888,744076,25282,06,12
+"Congressional District 13 (119th Congress), California",785894,99835,14.1,-888888888,771509,21250,06,13
+"Congressional District 14 (119th Congress), California",738570,203176,48.1,-888888888,734856,11869,06,14
+"Congressional District 15 (119th Congress), California",738509,217164,49.1,-888888888,734678,11530,06,15
+"Congressional District 16 (119th Congress), California",746476,250001,63.3,-888888888,742701,12653,06,16
+"Congressional District 17 (119th Congress), California",749526,250001,63.6,-888888888,745335,10864,06,17
+"Congressional District 18 (119th Congress), California",753842,156188,24.4,-888888888,742394,12748,06,18
+"Congressional District 19 (119th Congress), California",745177,187405,47.9,-888888888,737432,14058,06,19
+"Congressional District 20 (119th Congress), California",782028,121728,29.1,-888888888,769118,18798,06,20
+"Congressional District 21 (119th Congress), California",758000,98888,17.1,-888888888,750741,28929,06,21
+"Congressional District 22 (119th Congress), California",780759,87479,10.2,-888888888,752263,26254,06,22
+"Congressional District 23 (119th Congress), California",764069,102903,21.2,-888888888,740467,22430,06,23
+"Congressional District 24 (119th Congress), California",757747,147127,39.2,-888888888,744714,20684,06,24
+"Congressional District 25 (119th Congress), California",780646,100951,17.3,-888888888,764572,24682,06,25
+"Congressional District 26 (119th Congress), California",751824,156658,37.5,-888888888,745765,12702,06,26
+"Congressional District 27 (119th Congress), California",746656,135479,30.4,-888888888,737947,15224,06,27
+"Congressional District 28 (119th Congress), California",743063,169647,48.4,-888888888,738387,17774,06,28
+"Congressional District 29 (119th Congress), California",734777,124577,24.7,-888888888,731138,24277,06,29
+"Congressional District 30 (119th Congress), California",743383,172263,51.8,-888888888,738942,33230,06,30
+"Congressional District 31 (119th Congress), California",736368,131041,25.3,-888888888,732417,15440,06,31
+"Congressional District 32 (119th Congress), California",762403,180028,52.5,-888888888,758635,20838,06,32
+"Congressional District 33 (119th Congress), California",764959,120458,21.1,-888888888,757986,16273,06,33
+"Congressional District 34 (119th Congress), California",748464,136204,29.4,-888888888,736560,36651,06,34
+"Congressional District 35 (119th Congress), California",764518,126867,23.4,-888888888,755241,14932,06,35
+"Congressional District 36 (119th Congress), California",738907,210899,67.0,-888888888,735217,20211,06,36
+"Congressional District 37 (119th Congress), California",745432,126314,29.6,-888888888,742794,35116,06,37
+"Congressional District 38 (119th Congress), California",740416,135159,30.5,-888888888,736992,14766,06,38
+"Congressional District 39 (119th Congress), California",765795,117655,20.0,-888888888,762365,14149,06,39
+"Congressional District 40 (119th Congress), California",753713,183331,51.5,-888888888,751641,12856,06,40
+"Congressional District 41 (119th Congress), California",797949,134436,31.6,-888888888,790341,17338,06,41
+"Congressional District 42 (119th Congress), California",736570,137988,26.0,-888888888,732763,20281,06,42
+"Congressional District 43 (119th Congress), California",729891,122001,22.3,-888888888,727194,24181,06,43
+"Congressional District 44 (119th Congress), California",744757,131490,23.6,-888888888,738318,18738,06,44
+"Congressional District 45 (119th Congress), California",748896,154961,38.7,-888888888,745783,15350,06,45
+"Congressional District 46 (119th Congress), California",757342,136400,22.6,-888888888,750828,16453,06,46
+"Congressional District 47 (119th Congress), California",754999,194776,59.8,-888888888,753151,16003,06,47
+"Congressional District 48 (119th Congress), California",760621,148069,34.7,-888888888,749015,12902,06,48
+"Congressional District 49 (119th Congress), California",754648,176605,49.4,-888888888,721902,13275,06,49
+"Congressional District 50 (119th Congress), California",754032,189731,60.3,-888888888,732040,19186,06,50
+"Congressional District 51 (119th Congress), California",759191,153702,46.6,-888888888,739262,17226,06,51
+"Congressional District 52 (119th Congress), California",757541,131801,25.3,-888888888,730908,17868,06,52
+"Congressional District 1 (119th Congress), Colorado",724976,147436,56.5,-888888888,717701,25318,08,01
+"Congressional District 2 (119th Congress), Colorado",725063,150785,59.7,-888888888,720701,22005,08,02
+"Congressional District 3 (119th Congress), Colorado",728794,96069,33.3,-888888888,719077,28008,08,03
+"Congressional District 4 (119th Congress), Colorado",756186,148931,48.1,-888888888,745982,14816,08,04
+"Congressional District 5 (119th Congress), Colorado",734906,121724,42.0,-888888888,695012,17159,08,05
+"Congressional District 6 (119th Congress), Colorado",728750,136918,45.4,-888888888,722340,16758,08,06
+"Congressional District 7 (119th Congress), Colorado",723678,141038,49.6,-888888888,708361,15832,08,07
+"Congressional District 8 (119th Congress), Colorado",739836,125527,29.8,-888888888,735174,17634,08,08
+"Congressional District 1 (119th Congress), Connecticut",721392,130103,39.4,-888888888,713529,25629,09,01
+"Congressional District 2 (119th Congress), Connecticut",722183,134907,39.7,-888888888,705285,19257,09,02
+"Congressional District 3 (119th Congress), Connecticut",724297,135164,40.5,-888888888,718791,23374,09,03
+"Congressional District 4 (119th Congress), Connecticut",728656,196772,53.8,-888888888,724674,19070,09,04
+"Congressional District 5 (119th Congress), Connecticut",727980,132450,39.2,-888888888,719388,23475,09,05
+"Congressional Districts not defined (119th Congress), Connecticut",0,-666666666,,-888888888,0,0,09,ZZ
+"Congressional District (at Large) (119th Congress), Delaware",1021191,113956,35.8,-888888888,1007567,28192,10,00
+"Delegate District (at Large) (119th Congress), District of Columbia",681294,194366,64.2,-888888888,671766,29898,11,98
+"Congressional District 1 (119th Congress), Florida",793302,105567,32.2,-888888888,750170,21644,12,01
+"Congressional District 2 (119th Congress), Florida",792630,96990,31.6,-888888888,752403,32042,12,02
+"Congressional District 3 (119th Congress), Florida",798141,92089,29.2,-888888888,765423,33862,12,03
+"Congressional District 4 (119th Congress), Florida",797286,99590,27.2,-888888888,780113,28672,12,04
+"Congressional District 5 (119th Congress), Florida",818508,126006,46.3,-888888888,804487,21105,12,05
+"Congressional District 6 (119th Congress), Florida",816594,87971,25.5,-888888888,806402,31861,12,06
+"Congressional District 7 (119th Congress), Florida",789605,105316,36.9,-888888888,784144,20401,12,07
+"Congressional District 8 (119th Congress), Florida",801628,101360,34.1,-888888888,792735,24426,12,08
+"Congressional District 9 (119th Congress), Florida",821565,95669,33.9,-888888888,818145,21243,12,09
+"Congressional District 10 (119th Congress), Florida",788933,105686,37.1,-888888888,779100,27116,12,10
+"Congressional District 11 (119th Congress), Florida",826010,108915,35.9,-888888888,812280,20413,12,11
+"Congressional District 12 (119th Congress), Florida",820692,89323,24.3,-888888888,812195,29626,12,12
+"Congressional District 13 (119th Congress), Florida",769211,104748,35.1,-888888888,757540,28513,12,13
+"Congressional District 14 (119th Congress), Florida",786912,116037,41.6,-888888888,778041,30631,12,14
+"Congressional District 15 (119th Congress), Florida",813472,110539,33.9,-888888888,805989,26855,12,15
+"Congressional District 16 (119th Congress), Florida",830753,115243,35.8,-888888888,822890,21623,12,16
+"Congressional District 17 (119th Congress), Florida",828650,98339,33.3,-888888888,818428,27334,12,17
+"Congressional District 18 (119th Congress), Florida",825024,88225,20.6,-888888888,809708,27584,12,18
+"Congressional District 19 (119th Congress), Florida",808421,105376,37.6,-888888888,801365,25945,12,19
+"Congressional District 20 (119th Congress), Florida",792510,90915,25.9,-888888888,783412,32107,12,20
+"Congressional District 21 (119th Congress), Florida",812005,108255,36.2,-888888888,804586,23992,12,21
+"Congressional District 22 (119th Congress), Florida",786471,108735,38.4,-888888888,780681,25455,12,22
+"Congressional District 23 (119th Congress), Florida",778879,123905,45.1,-888888888,770999,26083,12,23
+"Congressional District 24 (119th Congress), Florida",793181,91101,31.5,-888888888,788428,31672,12,24
+"Congressional District 25 (119th Congress), Florida",780689,128561,42.0,-888888888,777769,25549,12,25
+"Congressional District 26 (119th Congress), Florida",804169,104466,30.7,-888888888,796049,27081,12,26
+"Congressional District 27 (119th Congress), Florida",764988,134621,43.6,-888888888,759988,30008,12,27
+"Congressional District 28 (119th Congress), Florida",775848,108968,30.5,-888888888,766949,19832,12,28
+"Congressional District 1 (119th Congress), Georgia",787122,99414,29.1,-888888888,756511,26920,13,01
+"Congressional District 2 (119th Congress), Georgia",754620,86990,21.8,-888888888,721728,42793,13,02
+"Congressional District 3 (119th Congress), Georgia",785402,108187,30.0,-888888888,776483,22914,13,03
+"Congressional District 4 (119th Congress), Georgia",765448,106287,39.0,-888888888,761950,23412,13,04
+"Congressional District 5 (119th Congress), Georgia",764559,129377,49.8,-888888888,755338,36500,13,05
+"Congressional District 6 (119th Congress), Georgia",778880,124209,47.7,-888888888,773824,22014,13,06
+"Congressional District 7 (119th Congress), Georgia",790971,166263,58.1,-888888888,787987,12158,13,07
+"Congressional District 8 (119th Congress), Georgia",774685,97552,23.4,-888888888,745153,31706,13,08
+"Congressional District 9 (119th Congress), Georgia",800737,112527,31.9,-888888888,791784,20013,13,09
+"Congressional District 10 (119th Congress), Georgia",801805,103920,29.8,-888888888,791092,25010,13,10
+"Congressional District 11 (119th Congress), Georgia",784112,131832,42.2,-888888888,777566,18268,13,11
+"Congressional District 12 (119th Congress), Georgia",774597,97178,24.6,-888888888,742971,32904,13,12
+"Congressional District 13 (119th Congress), Georgia",794711,98816,32.2,-888888888,790079,16825,13,13
+"Congressional District 14 (119th Congress), Georgia",782758,109025,28.0,-888888888,773982,18766,13,14
+"Congressional District 1 (119th Congress), Hawaii",719645,147125,39.9,-888888888,686962,15222,15,01
+"Congressional District 2 (119th Congress), Hawaii",725590,130220,32.3,-888888888,698846,15504,15,02
+"Congressional District 1 (119th Congress), Idaho",986280,103820,30.0,-888888888,972626,22466,16,01
+"Congressional District 2 (119th Congress), Idaho",947982,101858,33.8,-888888888,934819,25148,16,02
+"Congressional District 1 (119th Congress), Illinois",739958,113549,32.3,-888888888,734803,37894,17,01
+"Congressional District 2 (119th Congress), Illinois",742590,93678,24.9,-888888888,732209,35457,17,02
+"Congressional District 3 (119th Congress), Illinois",739663,131661,37.1,-888888888,735329,20552,17,03
+"Congressional District 4 (119th Congress), Illinois",729797,113572,24.8,-888888888,718425,20505,17,04
+"Congressional District 5 (119th Congress), Illinois",751305,173783,66.1,-888888888,745838,19866,17,05
+"Congressional District 6 (119th Congress), Illinois",747517,131165,44.2,-888888888,742172,18899,17,06
+"Congressional District 7 (119th Congress), Illinois",744315,134001,48.0,-888888888,740670,39816,17,07
+"Congressional District 8 (119th Congress), Illinois",746772,126162,40.0,-888888888,742612,15852,17,08
+"Congressional District 9 (119th Congress), Illinois",745003,149095,56.2,-888888888,734540,25050,17,09
+"Congressional District 10 (119th Congress), Illinois",753708,145348,47.0,-888888888,734793,15971,17,10
+"Congressional District 11 (119th Congress), Illinois",754751,139464,45.7,-888888888,749325,14763,17,11
+"Congressional District 12 (119th Congress), Illinois",746831,101067,24.4,-888888888,722692,28411,17,12
+"Congressional District 13 (119th Congress), Illinois",747221,97050,32.3,-888888888,737222,37163,17,13
+"Congressional District 14 (119th Congress), Illinois",763833,122655,34.2,-888888888,754915,17581,17,14
+"Congressional District 15 (119th Congress), Illinois",746652,101870,26.1,-888888888,727111,23432,17,15
+"Congressional District 16 (119th Congress), Illinois",748860,110974,31.6,-888888888,740518,19369,17,16
+"Congressional District 17 (119th Congress), Illinois",746022,89498,24.5,-888888888,728884,39559,17,17
+"Congressional Districts not defined (119th Congress), Illinois",0,-666666666,,-888888888,0,0,17,ZZ
+"Congressional District 1 (119th Congress), Indiana",757919,105061,26.7,-888888888,745675,25492,18,01
+"Congressional District 2 (119th Congress), Indiana",752547,92407,25.0,-888888888,742834,23818,18,02
+"Congressional District 3 (119th Congress), Indiana",762957,93878,25.5,-888888888,755430,23302,18,03
+"Congressional District 4 (119th Congress), Indiana",772003,108339,31.8,-888888888,759062,22052,18,04
+"Congressional District 5 (119th Congress), Indiana",773191,116650,40.8,-888888888,762775,22159,18,05
+"Congressional District 6 (119th Congress), Indiana",763862,103335,28.7,-888888888,752915,23918,18,06
+"Congressional District 7 (119th Congress), Indiana",752682,98087,36.3,-888888888,745123,35380,18,07
+"Congressional District 8 (119th Congress), Indiana",755776,91396,23.2,-888888888,739762,30216,18,08
+"Congressional District 9 (119th Congress), Indiana",760136,98571,27.4,-888888888,751138,25937,18,09
+"Congressional District 1 (119th Congress), Iowa",800735,107044,32.8,-888888888,787444,28295,19,01
+"Congressional District 2 (119th Congress), Iowa",795370,101296,29.2,-888888888,785608,25430,19,02
+"Congressional District 3 (119th Congress), Iowa",816359,114064,36.7,-888888888,806151,24220,19,03
+"Congressional District 4 (119th Congress), Iowa",798043,101041,26.8,-888888888,784702,27262,19,04
+"Congressional District 1 (119th Congress), Kansas",731585,97981,30.5,-888888888,711247,27506,20,01
+"Congressional District 2 (119th Congress), Kansas",732657,97667,27.9,-888888888,711767,27537,20,02
+"Congressional District 3 (119th Congress), Kansas",744760,143867,52.2,-888888888,738676,14360,20,03
+"Congressional District 4 (119th Congress), Kansas",738195,101440,30.9,-888888888,723409,25227,20,04
+"Congressional District 1 (119th Congress), Kentucky",753971,85561,21.0,-888888888,732684,33457,21,01
+"Congressional District 2 (119th Congress), Kentucky",765661,96644,23.8,-888888888,752715,28364,21,02
+"Congressional District 3 (119th Congress), Kentucky",748522,101413,36.0,-888888888,740498,32122,21,03
+"Congressional District 4 (119th Congress), Kentucky",762319,112879,32.0,-888888888,751673,22395,21,04
+"Congressional District 5 (119th Congress), Kentucky",742663,79976,16.0,-888888888,723424,40811,21,05
+"Congressional District 6 (119th Congress), Kentucky",761688,105299,36.7,-888888888,753673,29441,21,06
+"Congressional District 1 (119th Congress), Louisiana",771652,109960,36.4,-888888888,763760,23918,22,01
+"Congressional District 2 (119th Congress), Louisiana",763550,94904,27.6,-888888888,751228,44027,22,02
+"Congressional District 3 (119th Congress), Louisiana",770787,100265,24.4,-888888888,763245,31747,22,03
+"Congressional District 4 (119th Congress), Louisiana",769520,98803,24.6,-888888888,739293,32314,22,04
+"Congressional District 5 (119th Congress), Louisiana",778598,103282,26.0,-888888888,754565,34160,22,05
+"Congressional District 6 (119th Congress), Louisiana",757854,87032,22.7,-888888888,743536,47040,22,06
+"Congressional District 1 (119th Congress), Maine",695717,117601,43.9,-888888888,686947,20276,23,01
+"Congressional District 2 (119th Congress), Maine",692100,94379,28.4,-888888888,683129,28093,23,02
+"Congressional District 1 (119th Congress), Maryland",781616,125782,35.0,-888888888,770634,21661,24,01
+"Congressional District 2 (119th Congress), Maryland",771118,140191,46.2,-888888888,763082,18947,24,02
+"Congressional District 3 (119th Congress), Maryland",781479,169745,52.8,-888888888,765792,11730,24,03
+"Congressional District 4 (119th Congress), Maryland",758679,126766,33.6,-888888888,753035,20897,24,04
+"Congressional District 5 (119th Congress), Maryland",791419,154958,42.1,-888888888,767912,12698,24,05
+"Congressional District 6 (119th Congress), Maryland",796669,140123,40.8,-888888888,779548,17651,24,06
+"Congressional District 7 (119th Congress), Maryland",753868,100309,32.5,-888888888,745825,42719,24,07
+"Congressional District 8 (119th Congress), Maryland",771163,196907,63.9,-888888888,763865,14018,24,08
+"Congressional District 1 (119th Congress), Massachusetts",777981,114936,32.3,-888888888,770753,33668,25,01
+"Congressional District 2 (119th Congress), Massachusetts",787021,147912,46.6,-888888888,779636,24113,25,02
+"Congressional District 3 (119th Congress), Massachusetts",785403,147853,40.0,-888888888,774148,24136,25,03
+"Congressional District 4 (119th Congress), Massachusetts",787020,169093,49.9,-888888888,780555,19961,25,04
+"Congressional District 5 (119th Congress), Massachusetts",778640,206805,61.4,-888888888,772306,18762,25,05
+"Congressional District 6 (119th Congress), Massachusetts",784690,170336,49.9,-888888888,778860,20285,25,06
+"Congressional District 7 (119th Congress), Massachusetts",773502,156185,49.6,-888888888,769817,33678,25,07
+"Congressional District 8 (119th Congress), Massachusetts",781306,168955,53.0,-888888888,774554,22354,25,08
+"Congressional District 9 (119th Congress), Massachusetts",788493,140816,42.7,-888888888,778489,23279,25,09
+"Congressional District 1 (119th Congress), Michigan",783000,87248,28.3,-888888888,768160,31128,26,01
+"Congressional District 2 (119th Congress), Michigan",784314,90227,22.5,-888888888,768843,26565,26,02
+"Congressional District 3 (119th Congress), Michigan",779539,108096,38.6,-888888888,770393,25064,26,03
+"Congressional District 4 (119th Congress), Michigan",778930,105969,33.3,-888888888,772724,25612,26,04
+"Congressional District 5 (119th Congress), Michigan",773657,95255,23.6,-888888888,758288,25076,26,05
+"Congressional District 6 (119th Congress), Michigan",771301,138676,52.6,-888888888,764454,22311,26,06
+"Congressional District 7 (119th Congress), Michigan",778561,113368,37.6,-888888888,773382,26097,26,07
+"Congressional District 8 (119th Congress), Michigan",770294,91330,24.9,-888888888,762867,35179,26,08
+"Congressional District 9 (119th Congress), Michigan",778989,113636,29.2,-888888888,772343,22100,26,09
+"Congressional District 10 (119th Congress), Michigan",771566,103071,30.5,-888888888,766223,26355,26,10
+"Congressional District 11 (119th Congress), Michigan",775896,130542,50.8,-888888888,771525,23243,26,11
+"Congressional District 12 (119th Congress), Michigan",761609,91745,27.4,-888888888,758052,42566,26,12
+"Congressional District 13 (119th Congress), Michigan",770105,87768,22.6,-888888888,764083,49581,26,13
+"Congressional District 1 (119th Congress), Minnesota",715713,110349,32.0,-888888888,704683,21655,27,01
+"Congressional District 2 (119th Congress), Minnesota",730253,139029,43.5,-888888888,725786,12474,27,02
+"Congressional District 3 (119th Congress), Minnesota",708294,150939,51.8,-888888888,703980,14994,27,03
+"Congressional District 4 (119th Congress), Minnesota",705537,129413,47.6,-888888888,698881,20069,27,04
+"Congressional District 5 (119th Congress), Minnesota",707022,129998,51.1,-888888888,700165,28173,27,05
+"Congressional District 6 (119th Congress), Minnesota",734184,133840,35.7,-888888888,728278,13981,27,06
+"Congressional District 7 (119th Congress), Minnesota",716373,102694,25.2,-888888888,706354,25295,27,07
+"Congressional District 8 (119th Congress), Minnesota",722069,104337,28.3,-888888888,710552,24156,27,08
+"Congressional District 1 (119th Congress), Mississippi",746893,92616,24.5,-888888888,736393,29763,28,01
+"Congressional District 2 (119th Congress), Mississippi",713085,76660,21.6,-888888888,693034,42623,28,02
+"Congressional District 3 (119th Congress), Mississippi",738402,95789,28.9,-888888888,724017,31056,28,03
+"Congressional District 4 (119th Congress), Mississippi",748399,93265,25.5,-888888888,730205,29861,28,04
+"Congressional District 1 (119th Congress), Missouri",752720,95718,38.0,-888888888,744056,42457,29,01
+"Congressional District 2 (119th Congress), Missouri",771008,135698,50.0,-888888888,763613,15834,29,02
+"Congressional District 3 (119th Congress), Missouri",780389,112575,35.5,-888888888,766878,22568,29,03
+"Congressional District 4 (119th Congress), Missouri",782304,93819,25.2,-888888888,757581,25778,29,04
+"Congressional District 5 (119th Congress), Missouri",772256,103722,34.4,-888888888,766039,33465,29,05
+"Congressional District 6 (119th Congress), Missouri",775000,104938,27.1,-888888888,756751,24959,29,06
+"Congressional District 7 (119th Congress), Missouri",785302,91397,27.7,-888888888,776658,29668,29,07
+"Congressional District 8 (119th Congress), Missouri",772835,90249,20.8,-888888888,756118,30966,29,08
+"Congressional District 1 (119th Congress), Montana",564861,105881,38.8,-888888888,558581,19399,30,01
+"Congressional District 2 (119th Congress), Montana",552014,102797,31.4,-888888888,541423,18157,30,02
+"Congressional District 1 (119th Congress), Nebraska",662376,114834,36.4,-888888888,650949,19576,31,01
+"Congressional District 2 (119th Congress), Nebraska",664272,124574,42.5,-888888888,657435,21662,31,02
+"Congressional District 3 (119th Congress), Nebraska",652059,99201,25.0,-888888888,642470,23785,31,03
+"Congressional District 1 (119th Congress), Nevada",771368,104238,25.7,-888888888,766923,28077,32,01
+"Congressional District 2 (119th Congress), Nevada",790547,117545,29.4,-888888888,778678,23339,32,02
+"Congressional District 3 (119th Congress), Nevada",809043,113282,34.7,-888888888,806175,22149,32,03
+"Congressional District 4 (119th Congress), Nevada",813654,102214,21.2,-888888888,794440,23224,32,04
+"Congressional District 1 (119th Congress), New Hampshire",698446,140713,41.5,-888888888,690876,17170,33,01
+"Congressional District 2 (119th Congress), New Hampshire",696422,135082,39.8,-888888888,687682,16740,33,02
+"Congressional Districts not defined (119th Congress), New Hampshire",0,-666666666,,-888888888,0,0,33,ZZ
+"Congressional District 1 (119th Congress), New Jersey",778642,128230,36.1,-888888888,772256,24398,34,01
+"Congressional District 2 (119th Congress), New Jersey",783815,119834,31.3,-888888888,769529,24490,34,02
+"Congressional District 3 (119th Congress), New Jersey",783491,153131,46.2,-888888888,767656,14214,34,03
+"Congressional District 4 (119th Congress), New Jersey",788486,138261,40.3,-888888888,783038,17576,34,04
+"Congressional District 5 (119th Congress), New Jersey",778374,180342,55.0,-888888888,771501,14008,34,05
+"Congressional District 6 (119th Congress), New Jersey",780307,152246,42.6,-888888888,773649,19194,34,06
+"Congressional District 7 (119th Congress), New Jersey",783203,179445,55.0,-888888888,777082,13130,34,07
+"Congressional District 8 (119th Congress), New Jersey",763596,158752,41.4,-888888888,759009,28579,34,08
+"Congressional District 9 (119th Congress), New Jersey",767600,145827,34.0,-888888888,764824,23790,34,09
+"Congressional District 10 (119th Congress), New Jersey",777942,135918,32.6,-888888888,768452,33657,34,10
+"Congressional District 11 (119th Congress), New Jersey",779403,194549,59.2,-888888888,774030,12548,34,11
+"Congressional District 12 (119th Congress), New Jersey",778950,165053,48.8,-888888888,772429,18196,34,12
+"Congressional District 1 (119th Congress), New Mexico",711799,104482,39.5,-888888888,704205,31489,35,01
+"Congressional District 2 (119th Congress), New Mexico",707320,84047,24.4,-888888888,690077,28497,35,02
+"Congressional District 3 (119th Congress), New Mexico",701127,96058,28.1,-888888888,688275,30501,35,03
+"Congressional District 1 (119th Congress), New York",778092,169995,46.5,-888888888,771861,12978,36,01
+"Congressional District 2 (119th Congress), New York",782282,158760,33.9,-888888888,778982,12287,36,02
+"Congressional District 3 (119th Congress), New York",770395,186694,53.4,-888888888,765198,13086,36,03
+"Congressional District 4 (119th Congress), New York",773177,177950,44.9,-888888888,768336,11205,36,04
+"Congressional District 5 (119th Congress), New York",789687,126634,28.6,-888888888,784038,24971,36,05
+"Congressional District 6 (119th Congress), New York",733304,124018,38.3,-888888888,728705,25680,36,06
+"Congressional District 7 (119th Congress), New York",753548,144620,44.6,-888888888,752064,30501,36,07
+"Congressional District 8 (119th Congress), New York",759088,129170,36.2,-888888888,754295,43691,36,08
+"Congressional District 9 (119th Congress), New York",737304,138113,38.9,-888888888,733604,34482,36,09
+"Congressional District 10 (119th Congress), New York",733272,250001,61.7,-888888888,729022,29398,36,10
+"Congressional District 11 (119th Congress), New York",752901,137366,36.6,-888888888,748063,23858,36,11
+"Congressional District 12 (119th Congress), New York",719940,250001,80.3,-888888888,717209,27545,36,12
+"Congressional District 13 (119th Congress), New York",778141,155592,35.9,-888888888,772586,57915,36,13
+"Congressional District 14 (119th Congress), New York",718731,119020,29.5,-888888888,711622,34996,36,14
+"Congressional District 15 (119th Congress), New York",751695,122811,22.3,-888888888,743996,61036,36,15
+"Congressional District 16 (119th Congress), New York",775704,185618,49.1,-888888888,770315,23994,36,16
+"Congressional District 17 (119th Congress), New York",777627,178474,49.5,-888888888,767823,14342,36,17
+"Congressional District 18 (119th Congress), New York",786484,133659,36.6,-888888888,772942,22239,36,18
+"Congressional District 19 (119th Congress), New York",774788,111847,35.3,-888888888,761655,30626,36,19
+"Congressional District 20 (119th Congress), New York",782695,131373,42.9,-888888888,775162,29914,36,20
+"Congressional District 21 (119th Congress), New York",770419,102471,26.2,-888888888,743231,29709,36,21
+"Congressional District 22 (119th Congress), New York",767369,110220,35.6,-888888888,756233,32113,36,22
+"Congressional District 23 (119th Congress), New York",770072,107973,30.9,-888888888,760086,30048,36,23
+"Congressional District 24 (119th Congress), New York",771272,102692,25.9,-888888888,756067,27844,36,24
+"Congressional District 25 (119th Congress), New York",771484,113605,41.8,-888888888,764809,31340,36,25
+"Congressional District 26 (119th Congress), New York",772895,101975,35.7,-888888888,767922,41024,36,26
+"Congressional District 1 (119th Congress), North Carolina",747584,85636,20.3,-888888888,728037,36059,37,01
+"Congressional District 2 (119th Congress), North Carolina",766292,138852,54.0,-888888888,759735,20979,37,02
+"Congressional District 3 (119th Congress), North Carolina",760895,91637,28.2,-888888888,706884,32807,37,03
+"Congressional District 4 (119th Congress), North Carolina",769729,148559,61.4,-888888888,763580,19245,37,04
+"Congressional District 5 (119th Congress), North Carolina",751008,90918,27.8,-888888888,742850,32080,37,05
+"Congressional District 6 (119th Congress), North Carolina",769663,100062,30.2,-888888888,762149,27916,37,06
+"Congressional District 7 (119th Congress), North Carolina",778792,98222,33.1,-888888888,761070,29207,37,07
+"Congressional District 8 (119th Congress), North Carolina",765329,117923,35.0,-888888888,754450,21918,37,08
+"Congressional District 9 (119th Congress), North Carolina",765958,96834,28.6,-888888888,728967,25585,37,09
+"Congressional District 10 (119th Congress), North Carolina",766029,100276,32.8,-888888888,759891,26180,37,10
+"Congressional District 11 (119th Congress), North Carolina",758211,94934,35.7,-888888888,748040,26551,37,11
+"Congressional District 12 (119th Congress), North Carolina",770963,112708,44.7,-888888888,766313,25470,37,12
+"Congressional District 13 (119th Congress), North Carolina",792542,112232,31.5,-888888888,777292,21959,37,13
+"Congressional District 14 (119th Congress), North Carolina",767409,111560,35.6,-888888888,760474,24415,37,14
+"Congressional District (at Large) (119th Congress), North Dakota",784841,116512,32.7,-888888888,766680,28394,38,00
+"Congressional District 1 (119th Congress), Ohio",794614,129182,46.4,-888888888,781734,34248,39,01
+"Congressional District 2 (119th Congress), Ohio",787099,99137,21.2,-888888888,770593,29237,39,02
+"Congressional District 3 (119th Congress), Ohio",789553,119014,44.5,-888888888,785417,31349,39,03
+"Congressional District 4 (119th Congress), Ohio",797595,110431,29.5,-888888888,777777,23434,39,04
+"Congressional District 5 (119th Congress), Ohio",788570,100365,25.1,-888888888,778269,28135,39,05
+"Congressional District 6 (119th Congress), Ohio",779266,88173,21.0,-888888888,761776,34835,39,06
+"Congressional District 7 (119th Congress), Ohio",781785,114376,37.5,-888888888,774034,20158,39,07
+"Congressional District 8 (119th Congress), Ohio",788819,107815,30.7,-888888888,781511,22903,39,08
+"Congressional District 9 (119th Congress), Ohio",781702,99979,27.8,-888888888,772179,33166,39,09
+"Congressional District 10 (119th Congress), Ohio",786190,102419,32.3,-888888888,772110,34141,39,10
+"Congressional District 11 (119th Congress), Ohio",773464,90429,33.5,-888888888,764202,51931,39,11
+"Congressional District 12 (119th Congress), Ohio",798482,108792,27.6,-888888888,789800,25381,39,12
+"Congressional District 13 (119th Congress), Ohio",783308,103358,34.0,-888888888,775186,31844,39,13
+"Congressional District 14 (119th Congress), Ohio",785281,102594,28.2,-888888888,774468,27717,39,14
+"Congressional District 15 (119th Congress), Ohio",794565,111988,33.5,-888888888,783804,24352,39,15
+"Congressional District 1 (119th Congress), Oklahoma",809593,106555,33.3,-888888888,802409,27454,40,01
+"Congressional District 2 (119th Congress), Oklahoma",804459,85185,19.9,-888888888,785961,31161,40,02
+"Congressional District 3 (119th Congress), Oklahoma",797981,90643,22.2,-888888888,775395,34520,40,03
+"Congressional District 4 (119th Congress), Oklahoma",804349,101769,27.9,-888888888,776639,28208,40,04
+"Congressional District 5 (119th Congress), Oklahoma",812252,111968,38.2,-888888888,800464,26950,40,05
+"Congressional District 1 (119th Congress), Oregon",707875,146454,47.8,-888888888,702729,20676,41,01
+"Congressional District 2 (119th Congress), Oregon",708237,96536,24.4,-888888888,695006,26945,41,02
+"Congressional District 3 (119th Congress), Oregon",699535,132890,41.5,-888888888,695039,23251,41,03
+"Congressional District 4 (119th Congress), Oregon",710014,102850,32.8,-888888888,705463,32673,41,04
+"Congressional District 5 (119th Congress), Oregon",714831,128066,39.0,-888888888,710524,18504,41,05
+"Congressional District 6 (119th Congress), Oregon",713801,125923,35.1,-888888888,702172,21139,41,06
+"Congressional District 1 (119th Congress), Pennsylvania",767357,152901,44.9,-888888888,760238,14403,42,01
+"Congressional District 2 (119th Congress), Pennsylvania",746424,91262,28.1,-888888888,739818,40940,42,02
+"Congressional District 3 (119th Congress), Pennsylvania",762762,106035,43.6,-888888888,757487,48905,42,03
+"Congressional District 4 (119th Congress), Pennsylvania",774814,148768,49.2,-888888888,761485,15474,42,04
+"Congressional District 5 (119th Congress), Pennsylvania",765322,131342,42.2,-888888888,757578,26508,42,05
+"Congressional District 6 (119th Congress), Pennsylvania",779553,154467,48.7,-888888888,773581,17770,42,06
+"Congressional District 7 (119th Congress), Pennsylvania",775601,118998,32.8,-888888888,767274,21533,42,07
+"Congressional District 8 (119th Congress), Pennsylvania",768757,100726,27.4,-888888888,755007,31725,42,08
+"Congressional District 9 (119th Congress), Pennsylvania",765525,101248,23.3,-888888888,747017,26044,42,09
+"Congressional District 10 (119th Congress), Pennsylvania",779640,112390,34.7,-888888888,767094,24144,42,10
+"Congressional District 11 (119th Congress), Pennsylvania",772863,114298,30.9,-888888888,765213,17842,42,11
+"Congressional District 12 (119th Congress), Pennsylvania",760856,114768,41.9,-888888888,753419,34892,42,12
+"Congressional District 13 (119th Congress), Pennsylvania",765396,98796,22.4,-888888888,753344,24504,42,13
+"Congressional District 14 (119th Congress), Pennsylvania",757997,99618,27.0,-888888888,742344,30085,42,14
+"Congressional District 15 (119th Congress), Pennsylvania",758565,96697,25.3,-888888888,735703,27992,42,15
+"Congressional District 16 (119th Congress), Pennsylvania",762592,102279,30.0,-888888888,748677,30366,42,16
+"Congressional District 17 (119th Congress), Pennsylvania",754615,123853,45.0,-888888888,748778,24922,42,17
+"Congressional District 1 (119th Congress), Rhode Island",546488,128560,38.1,-888888888,537493,20953,44,01
+"Congressional District 2 (119th Congress), Rhode Island",555313,126684,37.4,-888888888,547575,19065,44,02
+"Congressional District 1 (119th Congress), South Carolina",763792,117531,43.2,-888888888,742448,16653,45,01
+"Congressional District 2 (119th Congress), South Carolina",749271,100342,36.2,-888888888,732458,23589,45,02
+"Congressional District 3 (119th Congress), South Carolina",750357,93667,26.3,-888888888,740212,29244,45,03
+"Congressional District 4 (119th Congress), South Carolina",765409,101540,36.1,-888888888,757613,25615,45,04
+"Congressional District 5 (119th Congress), South Carolina",758357,102787,29.5,-888888888,745689,23597,45,05
+"Congressional District 6 (119th Congress), South Carolina",745526,88949,29.2,-888888888,723433,39702,45,06
+"Congressional District 7 (119th Congress), South Carolina",763513,85398,24.4,-888888888,755371,31280,45,07
+"Congressional District (at Large) (119th Congress), South Dakota",907428,106683,31.9,-888888888,887616,27513,46,00
+"Congressional District 1 (119th Congress), Tennessee",782000,83766,23.2,-888888888,772059,31428,47,01
+"Congressional District 2 (119th Congress), Tennessee",792639,105755,34.4,-888888888,787083,24738,47,02
+"Congressional District 3 (119th Congress), Tennessee",788609,101357,29.0,-888888888,779010,28609,47,03
+"Congressional District 4 (119th Congress), Tennessee",799279,98081,25.8,-888888888,791724,22128,47,04
+"Congressional District 5 (119th Congress), Tennessee",796623,126293,47.0,-888888888,792550,18740,47,05
+"Congressional District 6 (119th Congress), Tennessee",788325,97473,28.8,-888888888,779362,28062,47,06
+"Congressional District 7 (119th Congress), Tennessee",791449,105898,34.4,-888888888,768110,24327,47,07
+"Congressional District 8 (119th Congress), Tennessee",767898,105871,29.8,-888888888,751205,27645,47,08
+"Congressional District 9 (119th Congress), Tennessee",759561,88438,26.9,-888888888,749552,39399,47,09
+"Congressional District 1 (119th Congress), Texas",779066,101193,22.9,-888888888,760718,26750,48,01
+"Congressional District 2 (119th Congress), Texas",814076,135003,39.3,-888888888,811869,14844,48,02
+"Congressional District 3 (119th Congress), Texas",846484,161410,50.2,-888888888,842574,12012,48,03
+"Congressional District 4 (119th Congress), Texas",823011,148541,44.8,-888888888,815564,18156,48,04
+"Congressional District 5 (119th Congress), Texas",806900,109846,24.4,-888888888,799811,20777,48,05
+"Congressional District 6 (119th Congress), Texas",793946,115841,26.3,-888888888,773646,17364,48,06
+"Congressional District 7 (119th Congress), Texas",796950,153626,49.7,-888888888,792649,26288,48,07
+"Congressional District 8 (119th Congress), Texas",846118,122041,33.7,-888888888,838152,15865,48,08
+"Congressional District 9 (119th Congress), Texas",776446,107038,32.3,-888888888,773457,29110,48,09
+"Congressional District 10 (119th Congress), Texas",797070,138889,41.1,-888888888,781316,26311,48,10
+"Congressional District 11 (119th Congress), Texas",777036,103967,24.3,-888888888,752411,28690,48,11
+"Congressional District 12 (119th Congress), Texas",816916,127710,34.2,-888888888,804930,21149,48,12
+"Congressional District 13 (119th Congress), Texas",782513,107830,26.2,-888888888,753147,26003,48,13
+"Congressional District 14 (119th Congress), Texas",777988,124133,25.8,-888888888,749398,27370,48,14
+"Congressional District 15 (119th Congress), Texas",790465,94612,22.7,-888888888,777783,30699,48,15
+"Congressional District 16 (119th Congress), Texas",776702,88761,27.1,-888888888,753726,33367,48,16
+"Congressional District 17 (119th Congress), Texas",791966,111472,27.5,-888888888,766623,29851,48,17
+"Congressional District 18 (119th Congress), Texas",791493,116243,28.4,-888888888,775911,36454,48,18
+"Congressional District 19 (119th Congress), Texas",773548,105207,25.3,-888888888,742242,31455,48,19
+"Congressional District 20 (119th Congress), Texas",783289,97084,25.2,-888888888,774113,30231,48,20
+"Congressional District 21 (119th Congress), Texas",810199,139407,47.0,-888888888,797107,19567,48,21
+"Congressional District 22 (119th Congress), Texas",833743,152162,47.0,-888888888,826947,15402,48,22
+"Congressional District 23 (119th Congress), Texas",770809,120673,31.1,-888888888,739687,20800,48,23
+"Congressional District 24 (119th Congress), Texas",761741,167764,54.5,-888888888,758142,12946,48,24
+"Congressional District 25 (119th Congress), Texas",806742,115464,31.1,-888888888,799416,23139,48,25
+"Congressional District 26 (119th Congress), Texas",830132,155573,47.7,-888888888,827466,11397,48,26
+"Congressional District 27 (119th Congress), Texas",777664,102964,21.4,-888888888,757577,28127,48,27
+"Congressional District 28 (119th Congress), Texas",789743,97021,21.2,-888888888,780460,28409,48,28
+"Congressional District 29 (119th Congress), Texas",752781,89242,13.0,-888888888,751085,31973,48,29
+"Congressional District 30 (119th Congress), Texas",779620,103816,31.0,-888888888,768923,28574,48,30
+"Congressional District 31 (119th Congress), Texas",843922,132906,38.6,-888888888,807236,18590,48,31
+"Congressional District 32 (119th Congress), Texas",767505,131050,40.7,-888888888,764553,26835,48,32
+"Congressional District 33 (119th Congress), Texas",777278,100436,23.6,-888888888,773273,24871,48,33
+"Congressional District 34 (119th Congress), Texas",778225,86395,19.3,-888888888,771646,33387,48,34
+"Congressional District 35 (119th Congress), Texas",819409,110355,32.9,-888888888,804783,30510,48,35
+"Congressional District 36 (119th Congress), Texas",784320,117244,24.0,-888888888,772066,23980,48,36
+"Congressional District 37 (119th Congress), Texas",774416,171542,62.9,-888888888,770580,26656,48,37
+"Congressional District 38 (119th Congress), Texas",788192,152190,50.5,-888888888,785774,16760,48,38
+"Congressional District 1 (119th Congress), Utah",846210,122425,37.9,-888888888,837785,15528,49,01
+"Congressional District 2 (119th Congress), Utah",852435,115515,33.7,-888888888,844433,17529,49,02
+"Congressional District 3 (119th Congress), Utah",821200,132115,44.2,-888888888,817109,15736,49,03
+"Congressional District 4 (119th Congress), Utah",872486,127397,35.6,-888888888,866584,10630,49,04
+"Congressional District (at Large) (119th Congress), Vermont",647106,112606,43.8,-888888888,641104,21376,50,00
+"Congressional District 1 (119th Congress), Virginia",804410,135393,47.6,-888888888,789186,15855,51,01
+"Congressional District 2 (119th Congress), Virginia",787890,122499,38.7,-888888888,749559,18047,51,02
+"Congressional District 3 (119th Congress), Virginia",776096,98861,30.0,-888888888,724364,31525,51,03
+"Congressional District 4 (119th Congress), Virginia",796326,102792,33.0,-888888888,770122,31281,51,04
+"Congressional District 5 (119th Congress), Virginia",798638,105904,34.3,-888888888,779665,29622,51,05
+"Congressional District 6 (119th Congress), Virginia",790761,102993,28.7,-888888888,777938,27213,51,06
+"Congressional District 7 (119th Congress), Virginia",806870,143948,37.7,-888888888,789047,12621,51,07
+"Congressional District 8 (119th Congress), Virginia",776847,207292,65.8,-888888888,760466,16293,51,08
+"Congressional District 9 (119th Congress), Virginia",780117,89567,23.9,-888888888,762306,32841,51,09
+"Congressional District 10 (119th Congress), Virginia",802125,199056,55.9,-888888888,797138,8220,51,10
+"Congressional District 11 (119th Congress), Virginia",785090,205998,68.3,-888888888,776862,8938,51,11
+"Congressional District 1 (119th Congress), Washington",783828,178099,53.0,-888888888,778073,13444,53,01
+"Congressional District 2 (119th Congress), Washington",781265,128431,36.9,-888888888,767016,24133,53,02
+"Congressional District 3 (119th Congress), Washington",788069,120828,28.9,-888888888,783170,19857,53,03
+"Congressional District 4 (119th Congress), Washington",781735,109389,24.0,-888888888,776593,20693,53,04
+"Congressional District 5 (119th Congress), Washington",788007,109737,31.7,-888888888,772763,28682,53,05
+"Congressional District 6 (119th Congress), Washington",782007,122998,35.1,-888888888,756149,22837,53,06
+"Congressional District 7 (119th Congress), Washington",779308,209562,66.5,-888888888,774667,22361,53,07
+"Congressional District 8 (119th Congress), Washington",781768,162296,42.0,-888888888,778381,11927,53,08
+"Congressional District 9 (119th Congress), Washington",772812,154637,42.0,-888888888,766202,20369,53,09
+"Congressional District 10 (119th Congress), Washington",777317,126228,32.1,-888888888,745090,17735,53,10
+"Congressional District 1 (119th Congress), West Virginia",877069,88392,22.1,-888888888,859174,39861,54,01
+"Congressional District 2 (119th Congress), West Virginia",901304,99085,26.1,-888888888,885061,34475,54,02
+"Congressional District 1 (119th Congress), Wisconsin",733917,109507,31.0,-888888888,725474,22796,55,01
+"Congressional District 2 (119th Congress), Wisconsin",748550,128752,48.4,-888888888,743692,23141,55,02
+"Congressional District 3 (119th Congress), Wisconsin",739573,104091,28.5,-888888888,729350,24654,55,03
+"Congressional District 4 (119th Congress), Wisconsin",725486,100341,34.1,-888888888,720178,37522,55,04
+"Congressional District 5 (119th Congress), Wisconsin",742808,129739,40.9,-888888888,738668,17656,55,05
+"Congressional District 6 (119th Congress), Wisconsin",738897,105895,28.6,-888888888,723348,21974,55,06
+"Congressional District 7 (119th Congress), Wisconsin",743243,99527,26.1,-888888888,734886,23817,55,07
+"Congressional District 8 (119th Congress), Wisconsin",742398,107420,29.7,-888888888,735683,21460,55,08
+"Congressional District (at Large) (119th Congress), Wyoming",582397,107101,30.6,-888888888,572011,20065,56,00
+"Resident Commissioner District (at Large) (119th Congress), Puerto Rico",3234309,49267,,-888888888,3207092,185764,72,98
